@@ -1,0 +1,3819 @@
+{
+ "version": 1,
+ "devices": [
+  {
+   "id": "iphone-4",
+   "family": "iPhone",
+   "model": "iPhone 4",
+   "make": "Apple",
+   "year": 2010,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 4 back camera 3.85mm f/2.8",
+     "focalLength": 3.85,
+     "fNumber": 2.8,
+     "focalLength35mm": 35,
+     "pixelWidth": 2592,
+     "pixelHeight": 1936
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 4 front camera 3.85mm f/2.4",
+     "focalLength": 3.85,
+     "fNumber": 2.4,
+     "focalLength35mm": 35,
+     "pixelWidth": 640,
+     "pixelHeight": 480
+    }
+   ],
+   "software": "4.0",
+   "heif": false
+  },
+  {
+   "id": "iphone-4s",
+   "family": "iPhone",
+   "model": "iPhone 4S",
+   "make": "Apple",
+   "year": 2011,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 4S back camera 4.28mm f/2.4",
+     "focalLength": 4.28,
+     "fNumber": 2.4,
+     "focalLength35mm": 35,
+     "pixelWidth": 3264,
+     "pixelHeight": 2448
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 4S front camera 1.85mm f/2.4",
+     "focalLength": 1.85,
+     "fNumber": 2.4,
+     "focalLength35mm": 35,
+     "pixelWidth": 640,
+     "pixelHeight": 480
+    }
+   ],
+   "software": "5.0",
+   "heif": false
+  },
+  {
+   "id": "iphone-5",
+   "family": "iPhone",
+   "model": "iPhone 5",
+   "make": "Apple",
+   "year": 2012,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 5 back camera 4.12mm f/2.4",
+     "focalLength": 4.12,
+     "fNumber": 2.4,
+     "focalLength35mm": 33,
+     "pixelWidth": 3264,
+     "pixelHeight": 2448
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 5 front camera 2.18mm f/2.4",
+     "focalLength": 2.18,
+     "fNumber": 2.4,
+     "focalLength35mm": 35,
+     "pixelWidth": 1280,
+     "pixelHeight": 960
+    }
+   ],
+   "software": "6.0",
+   "heif": false
+  },
+  {
+   "id": "iphone-5c",
+   "family": "iPhone",
+   "model": "iPhone 5c",
+   "make": "Apple",
+   "year": 2013,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 5c back camera 4.12mm f/2.4",
+     "focalLength": 4.12,
+     "fNumber": 2.4,
+     "focalLength35mm": 33,
+     "pixelWidth": 3264,
+     "pixelHeight": 2448
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 5c front camera 2.15mm f/2.4",
+     "focalLength": 2.15,
+     "fNumber": 2.4,
+     "focalLength35mm": 31,
+     "pixelWidth": 1280,
+     "pixelHeight": 960
+    }
+   ],
+   "software": "7.0",
+   "heif": false
+  },
+  {
+   "id": "iphone-5s",
+   "family": "iPhone",
+   "model": "iPhone 5s",
+   "make": "Apple",
+   "year": 2013,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 5s back camera 4.15mm f/2.2",
+     "focalLength": 4.15,
+     "fNumber": 2.2,
+     "focalLength35mm": 29,
+     "pixelWidth": 3264,
+     "pixelHeight": 2448
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 5s front camera 2.15mm f/2.4",
+     "focalLength": 2.15,
+     "fNumber": 2.4,
+     "focalLength35mm": 31,
+     "pixelWidth": 1280,
+     "pixelHeight": 960
+    }
+   ],
+   "software": "7.0",
+   "heif": false
+  },
+  {
+   "id": "iphone-6",
+   "family": "iPhone",
+   "model": "iPhone 6",
+   "make": "Apple",
+   "year": 2014,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 6 back camera 4.15mm f/2.2",
+     "focalLength": 4.15,
+     "fNumber": 2.2,
+     "focalLength35mm": 29,
+     "pixelWidth": 3264,
+     "pixelHeight": 2448
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 6 front camera 2.65mm f/2.2",
+     "focalLength": 2.65,
+     "fNumber": 2.2,
+     "focalLength35mm": 31,
+     "pixelWidth": 1280,
+     "pixelHeight": 960
+    }
+   ],
+   "software": "8.0",
+   "heif": false
+  },
+  {
+   "id": "iphone-6-plus",
+   "family": "iPhone",
+   "model": "iPhone 6 Plus",
+   "make": "Apple",
+   "year": 2014,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 6 Plus back camera 4.15mm f/2.2",
+     "focalLength": 4.15,
+     "fNumber": 2.2,
+     "focalLength35mm": 29,
+     "pixelWidth": 3264,
+     "pixelHeight": 2448
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 6 Plus front camera 2.65mm f/2.2",
+     "focalLength": 2.65,
+     "fNumber": 2.2,
+     "focalLength35mm": 31,
+     "pixelWidth": 1280,
+     "pixelHeight": 960
+    }
+   ],
+   "software": "8.0",
+   "heif": false
+  },
+  {
+   "id": "iphone-6s",
+   "family": "iPhone",
+   "model": "iPhone 6s",
+   "make": "Apple",
+   "year": 2015,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 6s back camera 4.15mm f/2.2",
+     "focalLength": 4.15,
+     "fNumber": 2.2,
+     "focalLength35mm": 29,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 6s front camera 2.65mm f/2.2",
+     "focalLength": 2.65,
+     "fNumber": 2.2,
+     "focalLength35mm": 31,
+     "pixelWidth": 2576,
+     "pixelHeight": 1932
+    }
+   ],
+   "software": "9.0",
+   "heif": false
+  },
+  {
+   "id": "iphone-6s-plus",
+   "family": "iPhone",
+   "model": "iPhone 6s Plus",
+   "make": "Apple",
+   "year": 2015,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 6s Plus back camera 4.15mm f/2.2",
+     "focalLength": 4.15,
+     "fNumber": 2.2,
+     "focalLength35mm": 29,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 6s Plus front camera 2.65mm f/2.2",
+     "focalLength": 2.65,
+     "fNumber": 2.2,
+     "focalLength35mm": 31,
+     "pixelWidth": 2576,
+     "pixelHeight": 1932
+    }
+   ],
+   "software": "9.0",
+   "heif": false
+  },
+  {
+   "id": "iphone-se",
+   "family": "iPhone",
+   "model": "iPhone SE",
+   "make": "Apple",
+   "year": 2016,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone SE back camera 4.15mm f/2.2",
+     "focalLength": 4.15,
+     "fNumber": 2.2,
+     "focalLength35mm": 29,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone SE front camera 2.15mm f/2.4",
+     "focalLength": 2.15,
+     "fNumber": 2.4,
+     "focalLength35mm": 31,
+     "pixelWidth": 1280,
+     "pixelHeight": 960
+    }
+   ],
+   "software": "9.3",
+   "heif": false
+  },
+  {
+   "id": "iphone-7",
+   "family": "iPhone",
+   "model": "iPhone 7",
+   "make": "Apple",
+   "year": 2016,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 7 back camera 3.99mm f/1.8",
+     "focalLength": 3.99,
+     "fNumber": 1.8,
+     "focalLength35mm": 28,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 7 front camera 2.87mm f/2.2",
+     "focalLength": 2.87,
+     "fNumber": 2.2,
+     "focalLength35mm": 32,
+     "pixelWidth": 3088,
+     "pixelHeight": 2320
+    }
+   ],
+   "software": "10.0",
+   "heif": true
+  },
+  {
+   "id": "iphone-7-plus",
+   "family": "iPhone",
+   "model": "iPhone 7 Plus",
+   "make": "Apple",
+   "year": 2016,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 7 Plus back dual camera 3.99mm f/1.8",
+     "focalLength": 3.99,
+     "fNumber": 1.8,
+     "focalLength35mm": 28,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "telephoto",
+     "position": "back",
+     "kind": "telephoto",
+     "lensModel": "iPhone 7 Plus back dual camera 6.6mm f/2.8",
+     "focalLength": 6.6,
+     "fNumber": 2.8,
+     "focalLength35mm": 57,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 7 Plus front camera 2.87mm f/2.2",
+     "focalLength": 2.87,
+     "fNumber": 2.2,
+     "focalLength35mm": 32,
+     "pixelWidth": 3088,
+     "pixelHeight": 2320
+    }
+   ],
+   "software": "10.0",
+   "heif": true
+  },
+  {
+   "id": "iphone-8",
+   "family": "iPhone",
+   "model": "iPhone 8",
+   "make": "Apple",
+   "year": 2017,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 8 back camera 3.99mm f/1.8",
+     "focalLength": 3.99,
+     "fNumber": 1.8,
+     "focalLength35mm": 28,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 8 front camera 2.87mm f/2.2",
+     "focalLength": 2.87,
+     "fNumber": 2.2,
+     "focalLength35mm": 32,
+     "pixelWidth": 3088,
+     "pixelHeight": 2320
+    }
+   ],
+   "software": "11.0",
+   "heif": true
+  },
+  {
+   "id": "iphone-8-plus",
+   "family": "iPhone",
+   "model": "iPhone 8 Plus",
+   "make": "Apple",
+   "year": 2017,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 8 Plus back dual camera 3.99mm f/1.8",
+     "focalLength": 3.99,
+     "fNumber": 1.8,
+     "focalLength35mm": 28,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "telephoto",
+     "position": "back",
+     "kind": "telephoto",
+     "lensModel": "iPhone 8 Plus back dual camera 6.6mm f/2.8",
+     "focalLength": 6.6,
+     "fNumber": 2.8,
+     "focalLength35mm": 57,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 8 Plus front camera 2.87mm f/2.2",
+     "focalLength": 2.87,
+     "fNumber": 2.2,
+     "focalLength35mm": 32,
+     "pixelWidth": 3088,
+     "pixelHeight": 2320
+    }
+   ],
+   "software": "11.0",
+   "heif": true
+  },
+  {
+   "id": "iphone-x",
+   "family": "iPhone",
+   "model": "iPhone X",
+   "make": "Apple",
+   "year": 2017,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone X back dual camera 4mm f/1.8",
+     "focalLength": 4.0,
+     "fNumber": 1.8,
+     "focalLength35mm": 28,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "telephoto",
+     "position": "back",
+     "kind": "telephoto",
+     "lensModel": "iPhone X back dual camera 6mm f/2.4",
+     "focalLength": 6.0,
+     "fNumber": 2.4,
+     "focalLength35mm": 52,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone X front TrueDepth camera 2.87mm f/2.2",
+     "focalLength": 2.87,
+     "fNumber": 2.2,
+     "focalLength35mm": 32,
+     "pixelWidth": 3088,
+     "pixelHeight": 2320
+    }
+   ],
+   "software": "11.0.1",
+   "heif": true
+  },
+  {
+   "id": "iphone-xr",
+   "family": "iPhone",
+   "model": "iPhone XR",
+   "make": "Apple",
+   "year": 2018,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone XR back camera 4.25mm f/1.8",
+     "focalLength": 4.25,
+     "fNumber": 1.8,
+     "focalLength35mm": 26,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone XR front TrueDepth camera 2.87mm f/2.2",
+     "focalLength": 2.87,
+     "fNumber": 2.2,
+     "focalLength35mm": 32,
+     "pixelWidth": 3088,
+     "pixelHeight": 2320
+    }
+   ],
+   "software": "12.0",
+   "heif": true
+  },
+  {
+   "id": "iphone-xs",
+   "family": "iPhone",
+   "model": "iPhone XS",
+   "make": "Apple",
+   "year": 2018,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone XS back dual camera 4.25mm f/1.8",
+     "focalLength": 4.25,
+     "fNumber": 1.8,
+     "focalLength35mm": 26,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "telephoto",
+     "position": "back",
+     "kind": "telephoto",
+     "lensModel": "iPhone XS back dual camera 6mm f/2.4",
+     "focalLength": 6.0,
+     "fNumber": 2.4,
+     "focalLength35mm": 52,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone XS front TrueDepth camera 2.87mm f/2.2",
+     "focalLength": 2.87,
+     "fNumber": 2.2,
+     "focalLength35mm": 32,
+     "pixelWidth": 3088,
+     "pixelHeight": 2320
+    }
+   ],
+   "software": "12.0",
+   "heif": true
+  },
+  {
+   "id": "iphone-xs-max",
+   "family": "iPhone",
+   "model": "iPhone XS Max",
+   "make": "Apple",
+   "year": 2018,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone XS Max back dual camera 4.25mm f/1.8",
+     "focalLength": 4.25,
+     "fNumber": 1.8,
+     "focalLength35mm": 26,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "telephoto",
+     "position": "back",
+     "kind": "telephoto",
+     "lensModel": "iPhone XS Max back dual camera 6mm f/2.4",
+     "focalLength": 6.0,
+     "fNumber": 2.4,
+     "focalLength35mm": 52,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone XS Max front TrueDepth camera 2.87mm f/2.2",
+     "focalLength": 2.87,
+     "fNumber": 2.2,
+     "focalLength35mm": 32,
+     "pixelWidth": 3088,
+     "pixelHeight": 2320
+    }
+   ],
+   "software": "12.0",
+   "heif": true
+  },
+  {
+   "id": "iphone-11",
+   "family": "iPhone",
+   "model": "iPhone 11",
+   "make": "Apple",
+   "year": 2019,
+   "lenses": [
+    {
+     "id": "ultraWide",
+     "position": "back",
+     "kind": "ultraWide",
+     "lensModel": "iPhone 11 back dual wide camera 1.54mm f/2.4",
+     "focalLength": 1.54,
+     "fNumber": 2.4,
+     "focalLength35mm": 13,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 11 back dual wide camera 4.25mm f/1.8",
+     "focalLength": 4.25,
+     "fNumber": 1.8,
+     "focalLength35mm": 26,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 11 front TrueDepth camera 2.71mm f/2.2",
+     "focalLength": 2.71,
+     "fNumber": 2.2,
+     "focalLength35mm": 23,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    }
+   ],
+   "software": "13.0",
+   "heif": true
+  },
+  {
+   "id": "iphone-11-pro",
+   "family": "iPhone",
+   "model": "iPhone 11 Pro",
+   "make": "Apple",
+   "year": 2019,
+   "lenses": [
+    {
+     "id": "ultraWide",
+     "position": "back",
+     "kind": "ultraWide",
+     "lensModel": "iPhone 11 Pro back triple camera 1.54mm f/2.4",
+     "focalLength": 1.54,
+     "fNumber": 2.4,
+     "focalLength35mm": 13,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 11 Pro back triple camera 4.25mm f/1.8",
+     "focalLength": 4.25,
+     "fNumber": 1.8,
+     "focalLength35mm": 26,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "telephoto",
+     "position": "back",
+     "kind": "telephoto",
+     "lensModel": "iPhone 11 Pro back triple camera 6mm f/2",
+     "focalLength": 6.0,
+     "fNumber": 2.0,
+     "focalLength35mm": 52,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 11 Pro front TrueDepth camera 2.71mm f/2.2",
+     "focalLength": 2.71,
+     "fNumber": 2.2,
+     "focalLength35mm": 23,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    }
+   ],
+   "software": "13.0",
+   "heif": true
+  },
+  {
+   "id": "iphone-11-pro-max",
+   "family": "iPhone",
+   "model": "iPhone 11 Pro Max",
+   "make": "Apple",
+   "year": 2019,
+   "lenses": [
+    {
+     "id": "ultraWide",
+     "position": "back",
+     "kind": "ultraWide",
+     "lensModel": "iPhone 11 Pro Max back triple camera 1.54mm f/2.4",
+     "focalLength": 1.54,
+     "fNumber": 2.4,
+     "focalLength35mm": 13,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 11 Pro Max back triple camera 4.25mm f/1.8",
+     "focalLength": 4.25,
+     "fNumber": 1.8,
+     "focalLength35mm": 26,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "telephoto",
+     "position": "back",
+     "kind": "telephoto",
+     "lensModel": "iPhone 11 Pro Max back triple camera 6mm f/2",
+     "focalLength": 6.0,
+     "fNumber": 2.0,
+     "focalLength35mm": 52,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 11 Pro Max front TrueDepth camera 2.71mm f/2.2",
+     "focalLength": 2.71,
+     "fNumber": 2.2,
+     "focalLength35mm": 23,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    }
+   ],
+   "software": "13.0",
+   "heif": true
+  },
+  {
+   "id": "iphone-se-2nd-generation",
+   "family": "iPhone",
+   "model": "iPhone SE (2nd generation)",
+   "make": "Apple",
+   "year": 2020,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone SE (2nd generation) back camera 3.99mm f/1.8",
+     "focalLength": 3.99,
+     "fNumber": 1.8,
+     "focalLength35mm": 28,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone SE (2nd generation) front camera 2.87mm f/2.2",
+     "focalLength": 2.87,
+     "fNumber": 2.2,
+     "focalLength35mm": 32,
+     "pixelWidth": 3088,
+     "pixelHeight": 2320
+    }
+   ],
+   "software": "13.4",
+   "heif": true
+  },
+  {
+   "id": "iphone-12-mini",
+   "family": "iPhone",
+   "model": "iPhone 12 mini",
+   "make": "Apple",
+   "year": 2020,
+   "lenses": [
+    {
+     "id": "ultraWide",
+     "position": "back",
+     "kind": "ultraWide",
+     "lensModel": "iPhone 12 mini back dual wide camera 1.55mm f/2.4",
+     "focalLength": 1.55,
+     "fNumber": 2.4,
+     "focalLength35mm": 14,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 12 mini back dual wide camera 4.2mm f/1.6",
+     "focalLength": 4.2,
+     "fNumber": 1.6,
+     "focalLength35mm": 26,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 12 mini front TrueDepth camera 2.71mm f/2.2",
+     "focalLength": 2.71,
+     "fNumber": 2.2,
+     "focalLength35mm": 23,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    }
+   ],
+   "software": "14.2",
+   "heif": true
+  },
+  {
+   "id": "iphone-12",
+   "family": "iPhone",
+   "model": "iPhone 12",
+   "make": "Apple",
+   "year": 2020,
+   "lenses": [
+    {
+     "id": "ultraWide",
+     "position": "back",
+     "kind": "ultraWide",
+     "lensModel": "iPhone 12 back dual wide camera 1.55mm f/2.4",
+     "focalLength": 1.55,
+     "fNumber": 2.4,
+     "focalLength35mm": 14,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 12 back dual wide camera 4.2mm f/1.6",
+     "focalLength": 4.2,
+     "fNumber": 1.6,
+     "focalLength35mm": 26,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 12 front TrueDepth camera 2.71mm f/2.2",
+     "focalLength": 2.71,
+     "fNumber": 2.2,
+     "focalLength35mm": 23,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    }
+   ],
+   "software": "14.1",
+   "heif": true
+  },
+  {
+   "id": "iphone-12-pro",
+   "family": "iPhone",
+   "model": "iPhone 12 Pro",
+   "make": "Apple",
+   "year": 2020,
+   "lenses": [
+    {
+     "id": "ultraWide",
+     "position": "back",
+     "kind": "ultraWide",
+     "lensModel": "iPhone 12 Pro back triple camera 1.54mm f/2.4",
+     "focalLength": 1.54,
+     "fNumber": 2.4,
+     "focalLength35mm": 14,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 12 Pro back triple camera 4.2mm f/1.6",
+     "focalLength": 4.2,
+     "fNumber": 1.6,
+     "focalLength35mm": 26,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "telephoto",
+     "position": "back",
+     "kind": "telephoto",
+     "lensModel": "iPhone 12 Pro back triple camera 6mm f/2",
+     "focalLength": 6.0,
+     "fNumber": 2.0,
+     "focalLength35mm": 52,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 12 Pro front TrueDepth camera 2.71mm f/2.2",
+     "focalLength": 2.71,
+     "fNumber": 2.2,
+     "focalLength35mm": 23,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    }
+   ],
+   "software": "14.1",
+   "heif": true
+  },
+  {
+   "id": "iphone-12-pro-max",
+   "family": "iPhone",
+   "model": "iPhone 12 Pro Max",
+   "make": "Apple",
+   "year": 2020,
+   "lenses": [
+    {
+     "id": "ultraWide",
+     "position": "back",
+     "kind": "ultraWide",
+     "lensModel": "iPhone 12 Pro Max back triple camera 1.54mm f/2.4",
+     "focalLength": 1.54,
+     "fNumber": 2.4,
+     "focalLength35mm": 14,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 12 Pro Max back triple camera 5.1mm f/1.6",
+     "focalLength": 5.1,
+     "fNumber": 1.6,
+     "focalLength35mm": 26,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "telephoto",
+     "position": "back",
+     "kind": "telephoto",
+     "lensModel": "iPhone 12 Pro Max back triple camera 7.5mm f/2.2",
+     "focalLength": 7.5,
+     "fNumber": 2.2,
+     "focalLength35mm": 65,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 12 Pro Max front TrueDepth camera 2.71mm f/2.2",
+     "focalLength": 2.71,
+     "fNumber": 2.2,
+     "focalLength35mm": 23,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    }
+   ],
+   "software": "14.2",
+   "heif": true
+  },
+  {
+   "id": "iphone-13-mini",
+   "family": "iPhone",
+   "model": "iPhone 13 mini",
+   "make": "Apple",
+   "year": 2021,
+   "lenses": [
+    {
+     "id": "ultraWide",
+     "position": "back",
+     "kind": "ultraWide",
+     "lensModel": "iPhone 13 mini back dual wide camera 1.54mm f/2.4",
+     "focalLength": 1.54,
+     "fNumber": 2.4,
+     "focalLength35mm": 13,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6",
+     "focalLength": 5.1,
+     "fNumber": 1.6,
+     "focalLength35mm": 26,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 13 mini front TrueDepth camera 2.71mm f/2.2",
+     "focalLength": 2.71,
+     "fNumber": 2.2,
+     "focalLength35mm": 23,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    }
+   ],
+   "software": "15.0",
+   "heif": true
+  },
+  {
+   "id": "iphone-13",
+   "family": "iPhone",
+   "model": "iPhone 13",
+   "make": "Apple",
+   "year": 2021,
+   "lenses": [
+    {
+     "id": "ultraWide",
+     "position": "back",
+     "kind": "ultraWide",
+     "lensModel": "iPhone 13 back dual wide camera 1.54mm f/2.4",
+     "focalLength": 1.54,
+     "fNumber": 2.4,
+     "focalLength35mm": 14,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 13 back dual wide camera 5.1mm f/1.6",
+     "focalLength": 5.1,
+     "fNumber": 1.6,
+     "focalLength35mm": 26,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 13 front TrueDepth camera 2.71mm f/2.2",
+     "focalLength": 2.71,
+     "fNumber": 2.2,
+     "focalLength35mm": 23,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    }
+   ],
+   "software": "15.0",
+   "heif": true
+  },
+  {
+   "id": "iphone-13-pro",
+   "family": "iPhone",
+   "model": "iPhone 13 Pro",
+   "make": "Apple",
+   "year": 2021,
+   "lenses": [
+    {
+     "id": "ultraWide",
+     "position": "back",
+     "kind": "ultraWide",
+     "lensModel": "iPhone 13 Pro back triple camera 1.57mm f/1.8",
+     "focalLength": 1.57,
+     "fNumber": 1.8,
+     "focalLength35mm": 13,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 13 Pro back triple camera 5.7mm f/1.5",
+     "focalLength": 5.7,
+     "fNumber": 1.5,
+     "focalLength35mm": 26,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "telephoto",
+     "position": "back",
+     "kind": "telephoto",
+     "lensModel": "iPhone 13 Pro back triple camera 9mm f/2.8",
+     "focalLength": 9.0,
+     "fNumber": 2.8,
+     "focalLength35mm": 77,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 13 Pro front TrueDepth camera 2.71mm f/2.2",
+     "focalLength": 2.71,
+     "fNumber": 2.2,
+     "focalLength35mm": 23,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    }
+   ],
+   "software": "15.0",
+   "heif": true
+  },
+  {
+   "id": "iphone-13-pro-max",
+   "family": "iPhone",
+   "model": "iPhone 13 Pro Max",
+   "make": "Apple",
+   "year": 2021,
+   "lenses": [
+    {
+     "id": "ultraWide",
+     "position": "back",
+     "kind": "ultraWide",
+     "lensModel": "iPhone 13 Pro Max back triple camera 1.57mm f/1.8",
+     "focalLength": 1.57,
+     "fNumber": 1.8,
+     "focalLength35mm": 13,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 13 Pro Max back triple camera 5.7mm f/1.5",
+     "focalLength": 5.7,
+     "fNumber": 1.5,
+     "focalLength35mm": 26,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "telephoto",
+     "position": "back",
+     "kind": "telephoto",
+     "lensModel": "iPhone 13 Pro Max back triple camera 9mm f/2.8",
+     "focalLength": 9.0,
+     "fNumber": 2.8,
+     "focalLength35mm": 77,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 13 Pro Max front TrueDepth camera 2.71mm f/2.2",
+     "focalLength": 2.71,
+     "fNumber": 2.2,
+     "focalLength35mm": 23,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    }
+   ],
+   "software": "15.0",
+   "heif": true
+  },
+  {
+   "id": "iphone-se-3rd-generation",
+   "family": "iPhone",
+   "model": "iPhone SE (3rd generation)",
+   "make": "Apple",
+   "year": 2022,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone SE (3rd generation) back camera 3.99mm f/1.8",
+     "focalLength": 3.99,
+     "fNumber": 1.8,
+     "focalLength35mm": 28,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone SE (3rd generation) front camera 2.87mm f/2.2",
+     "focalLength": 2.87,
+     "fNumber": 2.2,
+     "focalLength35mm": 32,
+     "pixelWidth": 3088,
+     "pixelHeight": 2320
+    }
+   ],
+   "software": "15.4",
+   "heif": true
+  },
+  {
+   "id": "iphone-14",
+   "family": "iPhone",
+   "model": "iPhone 14",
+   "make": "Apple",
+   "year": 2022,
+   "lenses": [
+    {
+     "id": "ultraWide",
+     "position": "back",
+     "kind": "ultraWide",
+     "lensModel": "iPhone 14 back dual wide camera 1.54mm f/2.4",
+     "focalLength": 1.54,
+     "fNumber": 2.4,
+     "focalLength35mm": 14,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 14 back dual wide camera 5.7mm f/1.5",
+     "focalLength": 5.7,
+     "fNumber": 1.5,
+     "focalLength35mm": 26,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 14 front TrueDepth camera 2.69mm f/1.9",
+     "focalLength": 2.69,
+     "fNumber": 1.9,
+     "focalLength35mm": 23,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    }
+   ],
+   "software": "16.0",
+   "heif": true
+  },
+  {
+   "id": "iphone-14-plus",
+   "family": "iPhone",
+   "model": "iPhone 14 Plus",
+   "make": "Apple",
+   "year": 2022,
+   "lenses": [
+    {
+     "id": "ultraWide",
+     "position": "back",
+     "kind": "ultraWide",
+     "lensModel": "iPhone 14 Plus back dual wide camera 1.54mm f/2.4",
+     "focalLength": 1.54,
+     "fNumber": 2.4,
+     "focalLength35mm": 14,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 14 Plus back dual wide camera 5.7mm f/1.5",
+     "focalLength": 5.7,
+     "fNumber": 1.5,
+     "focalLength35mm": 26,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 14 Plus front TrueDepth camera 2.69mm f/1.9",
+     "focalLength": 2.69,
+     "fNumber": 1.9,
+     "focalLength35mm": 23,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    }
+   ],
+   "software": "16.0",
+   "heif": true
+  },
+  {
+   "id": "iphone-14-pro",
+   "family": "iPhone",
+   "model": "iPhone 14 Pro",
+   "make": "Apple",
+   "year": 2022,
+   "lenses": [
+    {
+     "id": "ultraWide",
+     "position": "back",
+     "kind": "ultraWide",
+     "lensModel": "iPhone 14 Pro back triple camera 2.22mm f/2.2",
+     "focalLength": 2.22,
+     "fNumber": 2.2,
+     "focalLength35mm": 14,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 14 Pro back triple camera 6.86mm f/1.78",
+     "focalLength": 6.86,
+     "fNumber": 1.78,
+     "focalLength35mm": 24,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "telephoto",
+     "position": "back",
+     "kind": "telephoto",
+     "lensModel": "iPhone 14 Pro back triple camera 9mm f/2.8",
+     "focalLength": 9.0,
+     "fNumber": 2.8,
+     "focalLength35mm": 77,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 14 Pro front TrueDepth camera 2.69mm f/1.9",
+     "focalLength": 2.69,
+     "fNumber": 1.9,
+     "focalLength35mm": 23,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    }
+   ],
+   "software": "16.0",
+   "heif": true
+  },
+  {
+   "id": "iphone-14-pro-max",
+   "family": "iPhone",
+   "model": "iPhone 14 Pro Max",
+   "make": "Apple",
+   "year": 2022,
+   "lenses": [
+    {
+     "id": "ultraWide",
+     "position": "back",
+     "kind": "ultraWide",
+     "lensModel": "iPhone 14 Pro Max back triple camera 2.22mm f/2.2",
+     "focalLength": 2.22,
+     "fNumber": 2.2,
+     "focalLength35mm": 14,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 14 Pro Max back triple camera 6.86mm f/1.78",
+     "focalLength": 6.86,
+     "fNumber": 1.78,
+     "focalLength35mm": 24,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "telephoto",
+     "position": "back",
+     "kind": "telephoto",
+     "lensModel": "iPhone 14 Pro Max back triple camera 9mm f/2.8",
+     "focalLength": 9.0,
+     "fNumber": 2.8,
+     "focalLength35mm": 77,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 14 Pro Max front TrueDepth camera 2.69mm f/1.9",
+     "focalLength": 2.69,
+     "fNumber": 1.9,
+     "focalLength35mm": 23,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    }
+   ],
+   "software": "16.0",
+   "heif": true
+  },
+  {
+   "id": "iphone-15",
+   "family": "iPhone",
+   "model": "iPhone 15",
+   "make": "Apple",
+   "year": 2023,
+   "lenses": [
+    {
+     "id": "ultraWide",
+     "position": "back",
+     "kind": "ultraWide",
+     "lensModel": "iPhone 15 back dual wide camera 1.54mm f/2.4",
+     "focalLength": 1.54,
+     "fNumber": 2.4,
+     "focalLength35mm": 13,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 15 back dual wide camera 5.96mm f/1.6",
+     "focalLength": 5.96,
+     "fNumber": 1.6,
+     "focalLength35mm": 26,
+     "pixelWidth": 5712,
+     "pixelHeight": 4284
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 15 front TrueDepth camera 2.69mm f/1.9",
+     "focalLength": 2.69,
+     "fNumber": 1.9,
+     "focalLength35mm": 23,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    }
+   ],
+   "software": "17.0",
+   "heif": true
+  },
+  {
+   "id": "iphone-15-plus",
+   "family": "iPhone",
+   "model": "iPhone 15 Plus",
+   "make": "Apple",
+   "year": 2023,
+   "lenses": [
+    {
+     "id": "ultraWide",
+     "position": "back",
+     "kind": "ultraWide",
+     "lensModel": "iPhone 15 Plus back dual wide camera 1.54mm f/2.4",
+     "focalLength": 1.54,
+     "fNumber": 2.4,
+     "focalLength35mm": 13,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 15 Plus back dual wide camera 5.96mm f/1.6",
+     "focalLength": 5.96,
+     "fNumber": 1.6,
+     "focalLength35mm": 26,
+     "pixelWidth": 5712,
+     "pixelHeight": 4284
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 15 Plus front TrueDepth camera 2.69mm f/1.9",
+     "focalLength": 2.69,
+     "fNumber": 1.9,
+     "focalLength35mm": 23,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    }
+   ],
+   "software": "17.0",
+   "heif": true
+  },
+  {
+   "id": "iphone-15-pro",
+   "family": "iPhone",
+   "model": "iPhone 15 Pro",
+   "make": "Apple",
+   "year": 2023,
+   "lenses": [
+    {
+     "id": "ultraWide",
+     "position": "back",
+     "kind": "ultraWide",
+     "lensModel": "iPhone 15 Pro back triple camera 2.22mm f/2.2",
+     "focalLength": 2.22,
+     "fNumber": 2.2,
+     "focalLength35mm": 14,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 15 Pro back triple camera 6.765mm f/1.78",
+     "focalLength": 6.765,
+     "fNumber": 1.78,
+     "focalLength35mm": 24,
+     "pixelWidth": 5712,
+     "pixelHeight": 4284
+    },
+    {
+     "id": "telephoto",
+     "position": "back",
+     "kind": "telephoto",
+     "lensModel": "iPhone 15 Pro back triple camera 9mm f/2.8",
+     "focalLength": 9.0,
+     "fNumber": 2.8,
+     "focalLength35mm": 77,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 15 Pro front TrueDepth camera 2.69mm f/1.9",
+     "focalLength": 2.69,
+     "fNumber": 1.9,
+     "focalLength35mm": 23,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    }
+   ],
+   "software": "17.0",
+   "heif": true
+  },
+  {
+   "id": "iphone-15-pro-max",
+   "family": "iPhone",
+   "model": "iPhone 15 Pro Max",
+   "make": "Apple",
+   "year": 2023,
+   "lenses": [
+    {
+     "id": "ultraWide",
+     "position": "back",
+     "kind": "ultraWide",
+     "lensModel": "iPhone 15 Pro Max back triple camera 2.22mm f/2.2",
+     "focalLength": 2.22,
+     "fNumber": 2.2,
+     "focalLength35mm": 14,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 15 Pro Max back triple camera 6.765mm f/1.78",
+     "focalLength": 6.765,
+     "fNumber": 1.78,
+     "focalLength35mm": 24,
+     "pixelWidth": 5712,
+     "pixelHeight": 4284
+    },
+    {
+     "id": "telephoto",
+     "position": "back",
+     "kind": "telephoto",
+     "lensModel": "iPhone 15 Pro Max back triple camera 15.66mm f/2.8",
+     "focalLength": 15.66,
+     "fNumber": 2.8,
+     "focalLength35mm": 120,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 15 Pro Max front TrueDepth camera 2.69mm f/1.9",
+     "focalLength": 2.69,
+     "fNumber": 1.9,
+     "focalLength35mm": 23,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    }
+   ],
+   "software": "17.0",
+   "heif": true
+  },
+  {
+   "id": "iphone-16",
+   "family": "iPhone",
+   "model": "iPhone 16",
+   "make": "Apple",
+   "year": 2024,
+   "lenses": [
+    {
+     "id": "ultraWide",
+     "position": "back",
+     "kind": "ultraWide",
+     "lensModel": "iPhone 16 back dual wide camera 2.22mm f/2.2",
+     "focalLength": 2.22,
+     "fNumber": 2.2,
+     "focalLength35mm": 14,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 16 back dual wide camera 5.96mm f/1.6",
+     "focalLength": 5.96,
+     "fNumber": 1.6,
+     "focalLength35mm": 26,
+     "pixelWidth": 5712,
+     "pixelHeight": 4284
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 16 front TrueDepth camera 2.69mm f/1.9",
+     "focalLength": 2.69,
+     "fNumber": 1.9,
+     "focalLength35mm": 23,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    }
+   ],
+   "software": "18.0",
+   "heif": true
+  },
+  {
+   "id": "iphone-16-plus",
+   "family": "iPhone",
+   "model": "iPhone 16 Plus",
+   "make": "Apple",
+   "year": 2024,
+   "lenses": [
+    {
+     "id": "ultraWide",
+     "position": "back",
+     "kind": "ultraWide",
+     "lensModel": "iPhone 16 Plus back dual wide camera 2.22mm f/2.2",
+     "focalLength": 2.22,
+     "fNumber": 2.2,
+     "focalLength35mm": 14,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 16 Plus back dual wide camera 5.96mm f/1.6",
+     "focalLength": 5.96,
+     "fNumber": 1.6,
+     "focalLength35mm": 26,
+     "pixelWidth": 5712,
+     "pixelHeight": 4284
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 16 Plus front TrueDepth camera 2.69mm f/1.9",
+     "focalLength": 2.69,
+     "fNumber": 1.9,
+     "focalLength35mm": 23,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    }
+   ],
+   "software": "18.0",
+   "heif": true
+  },
+  {
+   "id": "iphone-16-pro",
+   "family": "iPhone",
+   "model": "iPhone 16 Pro",
+   "make": "Apple",
+   "year": 2024,
+   "lenses": [
+    {
+     "id": "ultraWide",
+     "position": "back",
+     "kind": "ultraWide",
+     "lensModel": "iPhone 16 Pro back triple camera 2.22mm f/2.2",
+     "focalLength": 2.22,
+     "fNumber": 2.2,
+     "focalLength35mm": 14,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 16 Pro back triple camera 6.765mm f/1.78",
+     "focalLength": 6.765,
+     "fNumber": 1.78,
+     "focalLength35mm": 24,
+     "pixelWidth": 5712,
+     "pixelHeight": 4284
+    },
+    {
+     "id": "telephoto",
+     "position": "back",
+     "kind": "telephoto",
+     "lensModel": "iPhone 16 Pro back triple camera 15.66mm f/2.8",
+     "focalLength": 15.66,
+     "fNumber": 2.8,
+     "focalLength35mm": 120,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 16 Pro front TrueDepth camera 2.69mm f/1.9",
+     "focalLength": 2.69,
+     "fNumber": 1.9,
+     "focalLength35mm": 23,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    }
+   ],
+   "software": "18.0",
+   "heif": true
+  },
+  {
+   "id": "iphone-16-pro-max",
+   "family": "iPhone",
+   "model": "iPhone 16 Pro Max",
+   "make": "Apple",
+   "year": 2024,
+   "lenses": [
+    {
+     "id": "ultraWide",
+     "position": "back",
+     "kind": "ultraWide",
+     "lensModel": "iPhone 16 Pro Max back triple camera 2.22mm f/2.2",
+     "focalLength": 2.22,
+     "fNumber": 2.2,
+     "focalLength35mm": 14,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 16 Pro Max back triple camera 6.765mm f/1.78",
+     "focalLength": 6.765,
+     "fNumber": 1.78,
+     "focalLength35mm": 24,
+     "pixelWidth": 5712,
+     "pixelHeight": 4284
+    },
+    {
+     "id": "telephoto",
+     "position": "back",
+     "kind": "telephoto",
+     "lensModel": "iPhone 16 Pro Max back triple camera 15.66mm f/2.8",
+     "focalLength": 15.66,
+     "fNumber": 2.8,
+     "focalLength35mm": 120,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 16 Pro Max front TrueDepth camera 2.69mm f/1.9",
+     "focalLength": 2.69,
+     "fNumber": 1.9,
+     "focalLength35mm": 23,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    }
+   ],
+   "software": "18.0",
+   "heif": true
+  },
+  {
+   "id": "iphone-16e",
+   "family": "iPhone",
+   "model": "iPhone 16e",
+   "make": "Apple",
+   "year": 2025,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 16e back camera 4.2mm f/1.64",
+     "focalLength": 4.2,
+     "fNumber": 1.64,
+     "focalLength35mm": 26,
+     "pixelWidth": 5712,
+     "pixelHeight": 4284
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 16e front camera 2.69mm f/1.9",
+     "focalLength": 2.69,
+     "fNumber": 1.9,
+     "focalLength35mm": 23,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    }
+   ],
+   "software": "18.3",
+   "heif": true
+  },
+  {
+   "id": "iphone-17",
+   "family": "iPhone",
+   "model": "iPhone 17",
+   "make": "Apple",
+   "year": 2025,
+   "lenses": [
+    {
+     "id": "ultraWide",
+     "position": "back",
+     "kind": "ultraWide",
+     "lensModel": "iPhone 17 back dual wide camera 2.22mm f/2.2",
+     "focalLength": 2.22,
+     "fNumber": 2.2,
+     "focalLength35mm": 14,
+     "pixelWidth": 5712,
+     "pixelHeight": 4284
+    },
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 17 back dual wide camera 5.96mm f/1.6",
+     "focalLength": 5.96,
+     "fNumber": 1.6,
+     "focalLength35mm": 26,
+     "pixelWidth": 5712,
+     "pixelHeight": 4284
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 17 front camera 2.71484mm f/1.89941",
+     "focalLength": 2.71484375,
+     "fNumber": 1.8994140625,
+     "focalLength35mm": 20,
+     "pixelWidth": 4896,
+     "pixelHeight": 3672
+    }
+   ],
+   "software": "26.0",
+   "heif": true
+  },
+  {
+   "id": "iphone-air",
+   "family": "iPhone",
+   "model": "iPhone Air",
+   "make": "Apple",
+   "year": 2025,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone Air back camera 5.96mm f/1.6",
+     "focalLength": 5.96,
+     "fNumber": 1.6,
+     "focalLength35mm": 26,
+     "pixelWidth": 5712,
+     "pixelHeight": 4284
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone Air front camera 2.71484mm f/1.89941",
+     "focalLength": 2.71484375,
+     "fNumber": 1.8994140625,
+     "focalLength35mm": 20,
+     "pixelWidth": 4896,
+     "pixelHeight": 3672
+    }
+   ],
+   "software": "26.0",
+   "heif": true
+  },
+  {
+   "id": "iphone-17-pro",
+   "family": "iPhone",
+   "model": "iPhone 17 Pro",
+   "make": "Apple",
+   "year": 2025,
+   "lenses": [
+    {
+     "id": "ultraWide",
+     "position": "back",
+     "kind": "ultraWide",
+     "lensModel": "iPhone 17 Pro back triple camera 2.22mm f/2.2",
+     "focalLength": 2.22,
+     "fNumber": 2.2,
+     "focalLength35mm": 14,
+     "pixelWidth": 5712,
+     "pixelHeight": 4284
+    },
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 17 Pro back triple camera 6.765mm f/1.78",
+     "focalLength": 6.765,
+     "fNumber": 1.78,
+     "focalLength35mm": 24,
+     "pixelWidth": 5712,
+     "pixelHeight": 4284
+    },
+    {
+     "id": "telephoto",
+     "position": "back",
+     "kind": "telephoto",
+     "lensModel": "iPhone 17 Pro back triple camera 16.8906mm f/2.79883",
+     "focalLength": 16.890625,
+     "fNumber": 2.798828125,
+     "focalLength35mm": 100,
+     "pixelWidth": 5712,
+     "pixelHeight": 4284
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 17 Pro front camera 2.71484mm f/1.89941",
+     "focalLength": 2.71484375,
+     "fNumber": 1.8994140625,
+     "focalLength35mm": 20,
+     "pixelWidth": 4896,
+     "pixelHeight": 3672
+    }
+   ],
+   "software": "26.0",
+   "heif": true
+  },
+  {
+   "id": "iphone-17-pro-max",
+   "family": "iPhone",
+   "model": "iPhone 17 Pro Max",
+   "make": "Apple",
+   "year": 2025,
+   "lenses": [
+    {
+     "id": "ultraWide",
+     "position": "back",
+     "kind": "ultraWide",
+     "lensModel": "iPhone 17 Pro Max back triple camera 2.22mm f/2.2",
+     "focalLength": 2.22,
+     "fNumber": 2.2,
+     "focalLength35mm": 14,
+     "pixelWidth": 5712,
+     "pixelHeight": 4284
+    },
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 17 Pro Max back triple camera 6.765mm f/1.78",
+     "focalLength": 6.765,
+     "fNumber": 1.78,
+     "focalLength35mm": 24,
+     "pixelWidth": 5712,
+     "pixelHeight": 4284
+    },
+    {
+     "id": "telephoto",
+     "position": "back",
+     "kind": "telephoto",
+     "lensModel": "iPhone 17 Pro Max back triple camera 16.8906mm f/2.79883",
+     "focalLength": 16.890625,
+     "fNumber": 2.798828125,
+     "focalLength35mm": 100,
+     "pixelWidth": 5712,
+     "pixelHeight": 4284
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 17 Pro Max front camera 2.71484mm f/1.89941",
+     "focalLength": 2.71484375,
+     "fNumber": 1.8994140625,
+     "focalLength35mm": 20,
+     "pixelWidth": 4896,
+     "pixelHeight": 3672
+    }
+   ],
+   "software": "26.0",
+   "heif": true
+  },
+  {
+   "id": "iphone-17e",
+   "family": "iPhone",
+   "model": "iPhone 17e",
+   "make": "Apple",
+   "year": 2026,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 17e back camera 4.2mm f/1.64",
+     "focalLength": 4.2,
+     "fNumber": 1.64,
+     "focalLength35mm": 26,
+     "pixelWidth": 5712,
+     "pixelHeight": 4284
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 17e front TrueDepth camera 2.69mm f/1.9",
+     "focalLength": 2.69,
+     "fNumber": 1.9,
+     "focalLength35mm": 23,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    }
+   ],
+   "heif": true
+  },
+  {
+   "id": "iphone-18-pro",
+   "family": "iPhone",
+   "model": "iPhone 18 Pro",
+   "make": "Apple",
+   "year": 2026,
+   "lenses": [
+    {
+     "id": "ultraWide",
+     "position": "back",
+     "kind": "ultraWide",
+     "lensModel": "iPhone 18 Pro back triple camera 2.22mm f/2.2",
+     "focalLength": 2.22,
+     "fNumber": 2.2,
+     "focalLength35mm": 14,
+     "pixelWidth": 5712,
+     "pixelHeight": 4284,
+     "estimated": true
+    },
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 18 Pro back triple camera 6.93mm f/1.48",
+     "focalLength": 6.93,
+     "fNumber": 1.8,
+     "focalLength35mm": 24,
+     "pixelWidth": 5712,
+     "pixelHeight": 4284,
+     "estimated": true
+    },
+    {
+     "id": "telephoto",
+     "position": "back",
+     "kind": "telephoto",
+     "lensModel": "iPhone 18 Pro back triple camera 16.8906mm f/2.79883",
+     "focalLength": 16.890625,
+     "fNumber": 2.798828125,
+     "focalLength35mm": 100,
+     "pixelWidth": 5712,
+     "pixelHeight": 4284,
+     "estimated": true
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 18 Pro front camera 2.71484mm f/1.89941",
+     "focalLength": 2.71484375,
+     "fNumber": 1.8994140625,
+     "focalLength35mm": 20,
+     "pixelWidth": 4896,
+     "pixelHeight": 3672,
+     "estimated": true
+    }
+   ],
+   "software": "27.0",
+   "heif": true
+  },
+  {
+   "id": "iphone-18-pro-max",
+   "family": "iPhone",
+   "model": "iPhone 18 Pro Max",
+   "make": "Apple",
+   "year": 2026,
+   "lenses": [
+    {
+     "id": "ultraWide",
+     "position": "back",
+     "kind": "ultraWide",
+     "lensModel": "iPhone 18 Pro Max back triple camera 2.22mm f/2.2",
+     "focalLength": 2.22,
+     "fNumber": 2.2,
+     "focalLength35mm": 14,
+     "pixelWidth": 5712,
+     "pixelHeight": 4284
+    },
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone 18 Pro Max back triple camera 6.93mm f/1.48",
+     "focalLength": 6.93,
+     "fNumber": 1.8,
+     "focalLength35mm": 24,
+     "pixelWidth": 5712,
+     "pixelHeight": 4284,
+     "estimated": true
+    },
+    {
+     "id": "telephoto",
+     "position": "back",
+     "kind": "telephoto",
+     "lensModel": "iPhone 18 Pro Max back triple camera 16.8906mm f/2.79883",
+     "focalLength": 16.890625,
+     "fNumber": 2.798828125,
+     "focalLength35mm": 100,
+     "pixelWidth": 5712,
+     "pixelHeight": 4284,
+     "estimated": true
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone 18 Pro Max front camera 2.71484mm f/1.89941",
+     "focalLength": 2.71484375,
+     "fNumber": 1.8994140625,
+     "focalLength35mm": 20,
+     "pixelWidth": 4896,
+     "pixelHeight": 3672,
+     "estimated": true
+    }
+   ],
+   "software": "27.0",
+   "heif": true
+  },
+  {
+   "id": "iphone-duo",
+   "family": "iPhone",
+   "model": "iPhone Duo",
+   "make": "Apple",
+   "year": 2026,
+   "lenses": [
+    {
+     "id": "ultraWide",
+     "position": "back",
+     "kind": "ultraWide",
+     "lensModel": "iPhone Duo back dual wide camera 2.22mm f/2.2",
+     "focalLength": 2.22,
+     "fNumber": 2.2,
+     "focalLength35mm": 14,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024,
+     "estimated": true
+    },
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPhone Duo back dual wide camera 4.2mm f/1.6",
+     "focalLength": 4.2,
+     "fNumber": 1.6,
+     "focalLength35mm": 26,
+     "pixelWidth": 5712,
+     "pixelHeight": 4284,
+     "estimated": true
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPhone Duo front camera 2.71484mm f/1.89941",
+     "focalLength": 2.71484375,
+     "fNumber": 1.8994140625,
+     "focalLength35mm": 20,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024,
+     "estimated": true
+    }
+   ],
+   "software": "27.0",
+   "heif": true
+  },
+  {
+   "id": "ipad-2",
+   "family": "iPad",
+   "model": "iPad 2",
+   "make": "Apple",
+   "year": 2011,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad 2 back camera 2.03mm f/2.4",
+     "focalLength": 2.03,
+     "fNumber": 2.4,
+     "focalLength35mm": 44,
+     "pixelWidth": 960,
+     "pixelHeight": 720
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad 2 front camera 1.85mm f/2.4",
+     "focalLength": 1.85,
+     "fNumber": 2.4,
+     "focalLength35mm": 35,
+     "pixelWidth": 640,
+     "pixelHeight": 480
+    }
+   ],
+   "software": "4.3",
+   "heif": false
+  },
+  {
+   "id": "ipad-3rd-generation",
+   "family": "iPad",
+   "model": "iPad",
+   "make": "Apple",
+   "year": 2012,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad back camera 4.28mm f/2.4",
+     "focalLength": 4.28,
+     "fNumber": 2.4,
+     "focalLength35mm": 35,
+     "pixelWidth": 2592,
+     "pixelHeight": 1936
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad front camera 1.85mm f/2.4",
+     "focalLength": 1.85,
+     "fNumber": 2.4,
+     "focalLength35mm": 35,
+     "pixelWidth": 640,
+     "pixelHeight": 480
+    }
+   ],
+   "name": "iPad (3rd generation)",
+   "software": "5.1",
+   "heif": false
+  },
+  {
+   "id": "ipad-4th-generation",
+   "family": "iPad",
+   "model": "iPad",
+   "make": "Apple",
+   "year": 2012,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad back camera 4.28mm f/2.4",
+     "focalLength": 4.28,
+     "fNumber": 2.4,
+     "focalLength35mm": 35,
+     "pixelWidth": 2592,
+     "pixelHeight": 1936
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad front camera 2.18mm f/2.4",
+     "focalLength": 2.18,
+     "fNumber": 2.4,
+     "focalLength35mm": 35,
+     "pixelWidth": 1280,
+     "pixelHeight": 960
+    }
+   ],
+   "name": "iPad (4th generation)",
+   "software": "6.0",
+   "heif": false
+  },
+  {
+   "id": "ipad-mini",
+   "family": "iPad",
+   "model": "iPad mini",
+   "make": "Apple",
+   "year": 2012,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad mini back camera 3.3mm f/2.4",
+     "focalLength": 3.3,
+     "fNumber": 2.4,
+     "focalLength35mm": 33,
+     "pixelWidth": 2592,
+     "pixelHeight": 1936
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad mini front camera 2.18mm f/2.4",
+     "focalLength": 2.18,
+     "fNumber": 2.4,
+     "focalLength35mm": 35,
+     "pixelWidth": 1280,
+     "pixelHeight": 960
+    }
+   ],
+   "software": "6.0",
+   "heif": false
+  },
+  {
+   "id": "ipad-air",
+   "family": "iPad",
+   "model": "iPad Air",
+   "make": "Apple",
+   "year": 2013,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad Air back camera 3.3mm f/2.4",
+     "focalLength": 3.3,
+     "fNumber": 2.4,
+     "focalLength35mm": 32,
+     "pixelWidth": 2592,
+     "pixelHeight": 1936
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad Air front camera 2.15mm f/2.4",
+     "focalLength": 2.15,
+     "fNumber": 2.4,
+     "focalLength35mm": 31,
+     "pixelWidth": 1280,
+     "pixelHeight": 960
+    }
+   ],
+   "software": "7.0",
+   "heif": false
+  },
+  {
+   "id": "ipad-mini-2",
+   "family": "iPad",
+   "model": "iPad mini 2",
+   "make": "Apple",
+   "year": 2013,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad mini 2 back camera 3.3mm f/2.4",
+     "focalLength": 3.3,
+     "fNumber": 2.4,
+     "focalLength35mm": 32,
+     "pixelWidth": 2592,
+     "pixelHeight": 1936
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad mini 2 front camera 2.15mm f/2.4",
+     "focalLength": 2.15,
+     "fNumber": 2.4,
+     "focalLength35mm": 31,
+     "pixelWidth": 1280,
+     "pixelHeight": 960
+    }
+   ],
+   "software": "7.0",
+   "heif": false
+  },
+  {
+   "id": "ipad-air-2",
+   "family": "iPad",
+   "model": "iPad Air 2",
+   "make": "Apple",
+   "year": 2014,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad Air 2 back camera 3.3mm f/2.4",
+     "focalLength": 3.3,
+     "fNumber": 2.4,
+     "focalLength35mm": 31,
+     "pixelWidth": 3264,
+     "pixelHeight": 2448
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad Air 2 front camera 2.65mm f/2.2",
+     "focalLength": 2.65,
+     "fNumber": 2.2,
+     "focalLength35mm": 31,
+     "pixelWidth": 1280,
+     "pixelHeight": 960
+    }
+   ],
+   "software": "8.1",
+   "heif": false
+  },
+  {
+   "id": "ipad-mini-3",
+   "family": "iPad",
+   "model": "iPad mini 3",
+   "make": "Apple",
+   "year": 2014,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad mini 3 back camera 3.3mm f/2.4",
+     "focalLength": 3.3,
+     "fNumber": 2.4,
+     "focalLength35mm": 32,
+     "pixelWidth": 2592,
+     "pixelHeight": 1936
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad mini 3 front camera 2.15mm f/2.4",
+     "focalLength": 2.15,
+     "fNumber": 2.4,
+     "focalLength35mm": 31,
+     "pixelWidth": 1280,
+     "pixelHeight": 960
+    }
+   ],
+   "software": "8.1",
+   "heif": false
+  },
+  {
+   "id": "ipad-mini-4",
+   "family": "iPad",
+   "model": "iPad mini 4",
+   "make": "Apple",
+   "year": 2015,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad mini 4 back camera 3.3mm f/2.4",
+     "focalLength": 3.3,
+     "fNumber": 2.4,
+     "focalLength35mm": 31,
+     "pixelWidth": 3264,
+     "pixelHeight": 2448
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad mini 4 front camera 2.65mm f/2.2",
+     "focalLength": 2.65,
+     "fNumber": 2.2,
+     "focalLength35mm": 31,
+     "pixelWidth": 1280,
+     "pixelHeight": 960
+    }
+   ],
+   "software": "9.0",
+   "heif": false
+  },
+  {
+   "id": "ipad-pro-12-9-inch",
+   "family": "iPad",
+   "model": "iPad Pro",
+   "make": "Apple",
+   "year": 2015,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad Pro back camera 3.3mm f/2.4",
+     "focalLength": 3.3,
+     "fNumber": 2.4,
+     "focalLength35mm": 31,
+     "pixelWidth": 3264,
+     "pixelHeight": 2448
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad Pro front camera 2.65mm f/2.2",
+     "focalLength": 2.65,
+     "fNumber": 2.2,
+     "focalLength35mm": 31,
+     "pixelWidth": 1280,
+     "pixelHeight": 960
+    }
+   ],
+   "name": "iPad Pro (12.9-inch)",
+   "software": "9.1",
+   "heif": false
+  },
+  {
+   "id": "ipad-pro-9-7-inch",
+   "family": "iPad",
+   "model": "iPad Pro",
+   "make": "Apple",
+   "year": 2016,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad Pro back camera 4.15mm f/2.2",
+     "focalLength": 4.15,
+     "fNumber": 2.2,
+     "focalLength35mm": 29,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad Pro front camera 2.65mm f/2.2",
+     "focalLength": 2.65,
+     "fNumber": 2.2,
+     "focalLength35mm": 31,
+     "pixelWidth": 2576,
+     "pixelHeight": 1932
+    }
+   ],
+   "name": "iPad Pro (9.7-inch)",
+   "software": "9.3",
+   "heif": false
+  },
+  {
+   "id": "ipad-5th-generation",
+   "family": "iPad",
+   "model": "iPad (5th generation)",
+   "make": "Apple",
+   "year": 2017,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad (5th generation) back camera 3.3mm f/2.4",
+     "focalLength": 3.3,
+     "fNumber": 2.4,
+     "focalLength35mm": 31,
+     "pixelWidth": 3264,
+     "pixelHeight": 2448
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad (5th generation) front camera 2.15mm f/2.4",
+     "focalLength": 2.15,
+     "fNumber": 2.4,
+     "focalLength35mm": 31,
+     "pixelWidth": 1280,
+     "pixelHeight": 960
+    }
+   ],
+   "software": "10.2.1",
+   "heif": false
+  },
+  {
+   "id": "ipad-pro-10-5-inch",
+   "family": "iPad",
+   "model": "iPad Pro (10.5-inch)",
+   "make": "Apple",
+   "year": 2017,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad Pro (10.5-inch) back camera 3.99mm f/1.8",
+     "focalLength": 3.99,
+     "fNumber": 1.8,
+     "focalLength35mm": 28,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad Pro (10.5-inch) front camera 2.87mm f/2.2",
+     "focalLength": 2.87,
+     "fNumber": 2.2,
+     "focalLength35mm": 32,
+     "pixelWidth": 3088,
+     "pixelHeight": 2320,
+     "estimated": true
+    }
+   ],
+   "software": "10.3.2",
+   "heif": true
+  },
+  {
+   "id": "ipad-pro-12-9-inch-2nd-generation",
+   "family": "iPad",
+   "model": "iPad Pro (12.9-inch) (2nd generation)",
+   "make": "Apple",
+   "year": 2017,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad Pro (12.9-inch) (2nd generation) back camera 3.99mm f/1.8",
+     "focalLength": 3.99,
+     "fNumber": 1.8,
+     "focalLength35mm": 28,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad Pro (12.9-inch) (2nd generation) front camera 2.87mm f/2.2",
+     "focalLength": 2.87,
+     "fNumber": 2.2,
+     "focalLength35mm": 32,
+     "pixelWidth": 3088,
+     "pixelHeight": 2320
+    }
+   ],
+   "software": "10.3.2",
+   "heif": true
+  },
+  {
+   "id": "ipad-6th-generation",
+   "family": "iPad",
+   "model": "iPad (6th generation)",
+   "make": "Apple",
+   "year": 2018,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad (6th generation) back camera 3.3mm f/2.4",
+     "focalLength": 3.3,
+     "fNumber": 2.4,
+     "focalLength35mm": 31,
+     "pixelWidth": 3264,
+     "pixelHeight": 2448
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad (6th generation) front camera 2.15mm f/2.4",
+     "focalLength": 2.15,
+     "fNumber": 2.4,
+     "focalLength35mm": 31,
+     "pixelWidth": 1280,
+     "pixelHeight": 960
+    }
+   ],
+   "software": "11.3",
+   "heif": true
+  },
+  {
+   "id": "ipad-pro-11-inch",
+   "family": "iPad",
+   "model": "iPad Pro (11-inch)",
+   "make": "Apple",
+   "year": 2018,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad Pro (11-inch) back camera 3mm f/1.8",
+     "focalLength": 3.0,
+     "fNumber": 1.8,
+     "focalLength35mm": 29,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad Pro (11-inch) front TrueDepth camera 2.87mm f/2.2",
+     "focalLength": 2.87,
+     "fNumber": 2.2,
+     "focalLength35mm": 32,
+     "pixelWidth": 3088,
+     "pixelHeight": 2320
+    }
+   ],
+   "software": "12.1",
+   "heif": true
+  },
+  {
+   "id": "ipad-pro-12-9-inch-3rd-generation",
+   "family": "iPad",
+   "model": "iPad Pro (12.9-inch) (3rd generation)",
+   "make": "Apple",
+   "year": 2018,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad Pro (12.9-inch) (3rd generation) back camera 3mm f/1.8",
+     "focalLength": 3.0,
+     "fNumber": 1.8,
+     "focalLength35mm": 29,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad Pro (12.9-inch) (3rd generation) front TrueDepth camera 2.87mm f/2.2",
+     "focalLength": 2.87,
+     "fNumber": 2.2,
+     "focalLength35mm": 32,
+     "pixelWidth": 3088,
+     "pixelHeight": 2320
+    }
+   ],
+   "software": "12.1",
+   "heif": true
+  },
+  {
+   "id": "ipad-air-3rd-generation",
+   "family": "iPad",
+   "model": "iPad Air (3rd generation)",
+   "make": "Apple",
+   "year": 2019,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad Air (3rd generation) back camera 3.3mm f/2.4",
+     "focalLength": 3.3,
+     "fNumber": 2.4,
+     "focalLength35mm": 31,
+     "pixelWidth": 3264,
+     "pixelHeight": 2448
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad Air (3rd generation) front camera 2.87mm f/2.2",
+     "focalLength": 2.87,
+     "fNumber": 2.2,
+     "focalLength35mm": 32,
+     "pixelWidth": 3088,
+     "pixelHeight": 2320,
+     "estimated": true
+    }
+   ],
+   "software": "12.2",
+   "heif": true
+  },
+  {
+   "id": "ipad-mini-5th-generation",
+   "family": "iPad",
+   "model": "iPad mini (5th generation)",
+   "make": "Apple",
+   "year": 2019,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad mini (5th generation) back camera 3.3mm f/2.4",
+     "focalLength": 3.3,
+     "fNumber": 2.4,
+     "focalLength35mm": 31,
+     "pixelWidth": 3264,
+     "pixelHeight": 2448
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad mini (5th generation) front camera 2.87mm f/2.2",
+     "focalLength": 2.87,
+     "fNumber": 2.2,
+     "focalLength35mm": 32,
+     "pixelWidth": 3088,
+     "pixelHeight": 2320,
+     "estimated": true
+    }
+   ],
+   "software": "12.2",
+   "heif": true
+  },
+  {
+   "id": "ipad-7th-generation",
+   "family": "iPad",
+   "model": "iPad (7th generation)",
+   "make": "Apple",
+   "year": 2019,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad (7th generation) back camera 3.3mm f/2.4",
+     "focalLength": 3.3,
+     "fNumber": 2.4,
+     "focalLength35mm": 31,
+     "pixelWidth": 3264,
+     "pixelHeight": 2448
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad (7th generation) front camera 2.15mm f/2.4",
+     "focalLength": 2.15,
+     "fNumber": 2.4,
+     "focalLength35mm": 31,
+     "pixelWidth": 1280,
+     "pixelHeight": 960
+    }
+   ],
+   "software": "13.1",
+   "heif": true
+  },
+  {
+   "id": "ipad-pro-11-inch-2nd-generation",
+   "family": "iPad",
+   "model": "iPad Pro (11-inch) (2nd generation)",
+   "make": "Apple",
+   "year": 2020,
+   "lenses": [
+    {
+     "id": "ultraWide",
+     "position": "back",
+     "kind": "ultraWide",
+     "lensModel": "iPad Pro (11-inch) (2nd generation) back dual wide camera 1.27mm f/2.4",
+     "focalLength": 1.27,
+     "fNumber": 2.4,
+     "focalLength35mm": 14,
+     "pixelWidth": 3648,
+     "pixelHeight": 2736
+    },
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad Pro (11-inch) (2nd generation) back dual wide camera 3mm f/1.8",
+     "focalLength": 3.0,
+     "fNumber": 1.8,
+     "focalLength35mm": 29,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad Pro (11-inch) (2nd generation) front TrueDepth camera 2.87mm f/2.2",
+     "focalLength": 2.87,
+     "fNumber": 2.2,
+     "focalLength35mm": 32,
+     "pixelWidth": 3088,
+     "pixelHeight": 2320
+    }
+   ],
+   "software": "13.4",
+   "heif": true
+  },
+  {
+   "id": "ipad-pro-12-9-inch-4th-generation",
+   "family": "iPad",
+   "model": "iPad Pro (12.9-inch) (4th generation)",
+   "make": "Apple",
+   "year": 2020,
+   "lenses": [
+    {
+     "id": "ultraWide",
+     "position": "back",
+     "kind": "ultraWide",
+     "lensModel": "iPad Pro (12.9-inch) (4th generation) back dual wide camera 1.27mm f/2.4",
+     "focalLength": 1.27,
+     "fNumber": 2.4,
+     "focalLength35mm": 14,
+     "pixelWidth": 3648,
+     "pixelHeight": 2736
+    },
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad Pro (12.9-inch) (4th generation) back dual wide camera 3mm f/1.8",
+     "focalLength": 3.0,
+     "fNumber": 1.8,
+     "focalLength35mm": 29,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad Pro (12.9-inch) (4th generation) front TrueDepth camera 2.87mm f/2.2",
+     "focalLength": 2.87,
+     "fNumber": 2.2,
+     "focalLength35mm": 32,
+     "pixelWidth": 3088,
+     "pixelHeight": 2320
+    }
+   ],
+   "software": "13.4",
+   "heif": true
+  },
+  {
+   "id": "ipad-8th-generation",
+   "family": "iPad",
+   "model": "iPad (8th generation)",
+   "make": "Apple",
+   "year": 2020,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad (8th generation) back camera 3.3mm f/2.4",
+     "focalLength": 3.3,
+     "fNumber": 2.4,
+     "focalLength35mm": 31,
+     "pixelWidth": 3264,
+     "pixelHeight": 2448
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad (8th generation) front camera 2.15mm f/2.4",
+     "focalLength": 2.15,
+     "fNumber": 2.4,
+     "focalLength35mm": 31,
+     "pixelWidth": 1280,
+     "pixelHeight": 960,
+     "estimated": true
+    }
+   ],
+   "software": "14.0",
+   "heif": true
+  },
+  {
+   "id": "ipad-air-4th-generation",
+   "family": "iPad",
+   "model": "iPad Air (4th generation)",
+   "make": "Apple",
+   "year": 2020,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad Air (4th generation) back camera 3mm f/1.8",
+     "focalLength": 3.0,
+     "fNumber": 1.8,
+     "focalLength35mm": 29,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad Air (4th generation) front camera 2.87mm f/2.2",
+     "focalLength": 2.87,
+     "fNumber": 2.2,
+     "focalLength35mm": 32,
+     "pixelWidth": 3088,
+     "pixelHeight": 2320,
+     "estimated": true
+    }
+   ],
+   "software": "14.1",
+   "heif": true
+  },
+  {
+   "id": "ipad-pro-11-inch-3rd-generation",
+   "family": "iPad",
+   "model": "iPad Pro (11-inch) (3rd generation)",
+   "make": "Apple",
+   "year": 2021,
+   "lenses": [
+    {
+     "id": "ultraWide",
+     "position": "back",
+     "kind": "ultraWide",
+     "lensModel": "iPad Pro (11-inch) (3rd generation) back dual wide camera 1.27mm f/2.4",
+     "focalLength": 1.27,
+     "fNumber": 2.4,
+     "focalLength35mm": 14,
+     "pixelWidth": 3648,
+     "pixelHeight": 2736
+    },
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad Pro (11-inch) (3rd generation) back dual wide camera 3mm f/1.8",
+     "focalLength": 3.0,
+     "fNumber": 1.8,
+     "focalLength35mm": 29,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad Pro (11-inch) (3rd generation) front TrueDepth camera 1.65mm f/2.4",
+     "focalLength": 1.65,
+     "fNumber": 2.4,
+     "focalLength35mm": 28,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    }
+   ],
+   "software": "14.5",
+   "heif": true
+  },
+  {
+   "id": "ipad-pro-12-9-inch-5th-generation",
+   "family": "iPad",
+   "model": "iPad Pro (12.9-inch) (5th generation)",
+   "make": "Apple",
+   "year": 2021,
+   "lenses": [
+    {
+     "id": "ultraWide",
+     "position": "back",
+     "kind": "ultraWide",
+     "lensModel": "iPad Pro (12.9-inch) (5th generation) back dual wide camera 1.27mm f/2.4",
+     "focalLength": 1.27,
+     "fNumber": 2.4,
+     "focalLength35mm": 14,
+     "pixelWidth": 3648,
+     "pixelHeight": 2736
+    },
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad Pro (12.9-inch) (5th generation) back dual wide camera 3mm f/1.8",
+     "focalLength": 3.0,
+     "fNumber": 1.8,
+     "focalLength35mm": 29,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad Pro (12.9-inch) (5th generation) front TrueDepth camera 1.65mm f/2.4",
+     "focalLength": 1.65,
+     "fNumber": 2.4,
+     "focalLength35mm": 28,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    }
+   ],
+   "software": "14.5",
+   "heif": true
+  },
+  {
+   "id": "ipad-9th-generation",
+   "family": "iPad",
+   "model": "iPad (9th generation)",
+   "make": "Apple",
+   "year": 2021,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad (9th generation) back camera 3.3mm f/2.4",
+     "focalLength": 3.3,
+     "fNumber": 2.4,
+     "focalLength35mm": 31,
+     "pixelWidth": 3264,
+     "pixelHeight": 2448
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad (9th generation) front camera 1.65mm f/2.4",
+     "focalLength": 1.65,
+     "fNumber": 2.4,
+     "focalLength35mm": 28,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024,
+     "estimated": true
+    }
+   ],
+   "software": "15.0",
+   "heif": true
+  },
+  {
+   "id": "ipad-mini-6th-generation",
+   "family": "iPad",
+   "model": "iPad mini (6th generation)",
+   "make": "Apple",
+   "year": 2021,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad mini (6th generation) back camera 3mm f/1.8",
+     "focalLength": 3.0,
+     "fNumber": 1.8,
+     "focalLength35mm": 29,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024,
+     "estimated": true
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad mini (6th generation) front camera 1.65mm f/2.4",
+     "focalLength": 1.65,
+     "fNumber": 2.4,
+     "focalLength35mm": 28,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024,
+     "estimated": true
+    }
+   ],
+   "software": "15.0",
+   "heif": true
+  },
+  {
+   "id": "ipad-air-5th-generation",
+   "family": "iPad",
+   "model": "iPad Air (5th generation)",
+   "make": "Apple",
+   "year": 2022,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad Air (5th generation) back camera 3mm f/1.8",
+     "focalLength": 3.0,
+     "fNumber": 1.8,
+     "focalLength35mm": 29,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad Air (5th generation) front camera 1.65mm f/2.4",
+     "focalLength": 1.65,
+     "fNumber": 2.4,
+     "focalLength35mm": 28,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024,
+     "estimated": true
+    }
+   ],
+   "software": "15.4",
+   "heif": true
+  },
+  {
+   "id": "ipad-10th-generation",
+   "family": "iPad",
+   "model": "iPad (10th generation)",
+   "make": "Apple",
+   "year": 2022,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad (10th generation) back camera 3mm f/1.8",
+     "focalLength": 3.0,
+     "fNumber": 1.8,
+     "focalLength35mm": 29,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad (10th generation) front camera 1.65mm f/2.4",
+     "focalLength": 1.65,
+     "fNumber": 2.4,
+     "focalLength35mm": 28,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    }
+   ],
+   "software": "16.1",
+   "heif": true
+  },
+  {
+   "id": "ipad-pro-11-inch-4th-generation",
+   "family": "iPad",
+   "model": "iPad Pro (11-inch) (4th generation)",
+   "make": "Apple",
+   "year": 2022,
+   "lenses": [
+    {
+     "id": "ultraWide",
+     "position": "back",
+     "kind": "ultraWide",
+     "lensModel": "iPad Pro (11-inch) (4th generation) back dual wide camera 1.27mm f/2.4",
+     "focalLength": 1.27,
+     "fNumber": 2.4,
+     "focalLength35mm": 14,
+     "pixelWidth": 3648,
+     "pixelHeight": 2736
+    },
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad Pro (11-inch) (4th generation) back dual wide camera 3mm f/1.8",
+     "focalLength": 3.0,
+     "fNumber": 1.8,
+     "focalLength35mm": 29,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad Pro (11-inch) (4th generation) front TrueDepth camera 1.65mm f/2.4",
+     "focalLength": 1.65,
+     "fNumber": 2.4,
+     "focalLength35mm": 28,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    }
+   ],
+   "software": "16.1",
+   "heif": true
+  },
+  {
+   "id": "ipad-pro-12-9-inch-6th-generation",
+   "family": "iPad",
+   "model": "iPad Pro (12.9-inch) (6th generation)",
+   "make": "Apple",
+   "year": 2022,
+   "lenses": [
+    {
+     "id": "ultraWide",
+     "position": "back",
+     "kind": "ultraWide",
+     "lensModel": "iPad Pro (12.9-inch) (6th generation) back dual wide camera 1.27mm f/2.4",
+     "focalLength": 1.27,
+     "fNumber": 2.4,
+     "focalLength35mm": 14,
+     "pixelWidth": 3648,
+     "pixelHeight": 2736
+    },
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad Pro (12.9-inch) (6th generation) back dual wide camera 3mm f/1.8",
+     "focalLength": 3.0,
+     "fNumber": 1.8,
+     "focalLength35mm": 29,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad Pro (12.9-inch) (6th generation) front TrueDepth camera 1.65mm f/2.4",
+     "focalLength": 1.65,
+     "fNumber": 2.4,
+     "focalLength35mm": 28,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    }
+   ],
+   "software": "16.1",
+   "heif": true
+  },
+  {
+   "id": "ipad-air-11-inch-m2",
+   "family": "iPad",
+   "model": "iPad Air 11-inch (M2)",
+   "make": "Apple",
+   "year": 2024,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad Air 11-inch (M2) back camera 3mm f/1.8",
+     "focalLength": 3.0,
+     "fNumber": 1.8,
+     "focalLength35mm": 28,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad Air 11-inch (M2) front camera 1.65mm f/2.4",
+     "focalLength": 1.65,
+     "fNumber": 2.4,
+     "focalLength35mm": 28,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024,
+     "estimated": true
+    }
+   ],
+   "software": "17.4",
+   "heif": true
+  },
+  {
+   "id": "ipad-air-13-inch-m2",
+   "family": "iPad",
+   "model": "iPad Air 13-inch (M2)",
+   "make": "Apple",
+   "year": 2024,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad Air 13-inch (M2) back camera 3mm f/1.8",
+     "focalLength": 3.0,
+     "fNumber": 1.8,
+     "focalLength35mm": 28,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad Air 13-inch (M2) front camera 1.65mm f/2.4",
+     "focalLength": 1.65,
+     "fNumber": 2.4,
+     "focalLength35mm": 28,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024,
+     "estimated": true
+    }
+   ],
+   "software": "17.4",
+   "heif": true
+  },
+  {
+   "id": "ipad-pro-11-inch-m4",
+   "family": "iPad",
+   "model": "iPad Pro 11-inch (M4)",
+   "make": "Apple",
+   "year": 2024,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad Pro 11-inch (M4) back camera 3mm f/1.8",
+     "focalLength": 3.0,
+     "fNumber": 1.8,
+     "focalLength35mm": 28,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad Pro 11-inch (M4) front TrueDepth camera 1.5mm f/2",
+     "focalLength": 1.5,
+     "fNumber": 2.0,
+     "focalLength35mm": 15,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    }
+   ],
+   "software": "17.5",
+   "heif": true
+  },
+  {
+   "id": "ipad-pro-13-inch-m4",
+   "family": "iPad",
+   "model": "iPad Pro 13-inch (M4)",
+   "make": "Apple",
+   "year": 2024,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad Pro 13-inch (M4) back camera 3mm f/1.8",
+     "focalLength": 3.0,
+     "fNumber": 1.8,
+     "focalLength35mm": 28,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad Pro 13-inch (M4) front TrueDepth camera 1.5mm f/2",
+     "focalLength": 1.5,
+     "fNumber": 2.0,
+     "focalLength35mm": 15,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    }
+   ],
+   "software": "17.5",
+   "heif": true
+  },
+  {
+   "id": "ipad-mini-a17-pro",
+   "family": "iPad",
+   "model": "iPad mini (A17 Pro)",
+   "make": "Apple",
+   "year": 2024,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad mini (A17 Pro) back camera 3mm f/1.8",
+     "focalLength": 3.0,
+     "fNumber": 1.8,
+     "focalLength35mm": 28,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad mini (A17 Pro) front camera 1.65mm f/2.4",
+     "focalLength": 1.65,
+     "fNumber": 2.4,
+     "focalLength35mm": 28,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024,
+     "estimated": true
+    }
+   ],
+   "software": "18.0",
+   "heif": true
+  },
+  {
+   "id": "ipad-a16",
+   "family": "iPad",
+   "model": "iPad (A16)",
+   "make": "Apple",
+   "year": 2025,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad (A16) back camera 3mm f/1.8",
+     "focalLength": 3.0,
+     "fNumber": 1.8,
+     "focalLength35mm": 29,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad (A16) front camera 1.65mm f/2.4",
+     "focalLength": 1.65,
+     "fNumber": 2.4,
+     "focalLength35mm": 28,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    }
+   ],
+   "software": "18.3",
+   "heif": true
+  },
+  {
+   "id": "ipad-air-11-inch-m3",
+   "family": "iPad",
+   "model": "iPad Air 11-inch (M3)",
+   "make": "Apple",
+   "year": 2025,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad Air 11-inch (M3) back camera 3mm f/1.8",
+     "focalLength": 3.0,
+     "fNumber": 1.8,
+     "focalLength35mm": 28,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad Air 11-inch (M3) front camera 1.65mm f/2.4",
+     "focalLength": 1.65,
+     "fNumber": 2.4,
+     "focalLength35mm": 28,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024,
+     "estimated": true
+    }
+   ],
+   "software": "18.3",
+   "heif": true
+  },
+  {
+   "id": "ipad-air-13-inch-m3",
+   "family": "iPad",
+   "model": "iPad Air 13-inch (M3)",
+   "make": "Apple",
+   "year": 2025,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad Air 13-inch (M3) back camera 3mm f/1.8",
+     "focalLength": 3.0,
+     "fNumber": 1.8,
+     "focalLength35mm": 28,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad Air 13-inch (M3) front camera 1.65mm f/2.4",
+     "focalLength": 1.65,
+     "fNumber": 2.4,
+     "focalLength35mm": 28,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024,
+     "estimated": true
+    }
+   ],
+   "software": "18.3",
+   "heif": true
+  },
+  {
+   "id": "ipad-pro-11-inch-m5",
+   "family": "iPad",
+   "model": "iPad Pro 11-inch (M5)",
+   "make": "Apple",
+   "year": 2025,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad Pro 11-inch (M5) back camera 3mm f/1.8",
+     "focalLength": 3.0,
+     "fNumber": 1.8,
+     "focalLength35mm": 28,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad Pro 11-inch (M5) front TrueDepth camera 1.5mm f/2",
+     "focalLength": 1.5,
+     "fNumber": 2.0,
+     "focalLength35mm": 15,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024,
+     "estimated": true
+    }
+   ],
+   "software": "26.0",
+   "heif": true
+  },
+  {
+   "id": "ipad-pro-13-inch-m5",
+   "family": "iPad",
+   "model": "iPad Pro 13-inch (M5)",
+   "make": "Apple",
+   "year": 2025,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad Pro 13-inch (M5) back camera 3mm f/1.8",
+     "focalLength": 3.0,
+     "fNumber": 1.8,
+     "focalLength35mm": 28,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024,
+     "estimated": true
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad Pro 13-inch (M5) front TrueDepth camera 1.5mm f/2",
+     "focalLength": 1.5,
+     "fNumber": 2.0,
+     "focalLength35mm": 15,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024,
+     "estimated": true
+    }
+   ],
+   "software": "26.0",
+   "heif": true
+  },
+  {
+   "id": "ipad-air-11-inch-m4",
+   "family": "iPad",
+   "model": "iPad Air 11-inch (M4)",
+   "make": "Apple",
+   "year": 2026,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad Air 11-inch (M4) back camera 3mm f/1.8",
+     "focalLength": 3.0,
+     "fNumber": 1.8,
+     "focalLength35mm": 28,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad Air 11-inch (M4) front camera 1.65mm f/2.4",
+     "focalLength": 1.65,
+     "fNumber": 2.4,
+     "focalLength35mm": 28,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024,
+     "estimated": true
+    }
+   ],
+   "heif": true
+  },
+  {
+   "id": "ipad-air-13-inch-m4",
+   "family": "iPad",
+   "model": "iPad Air 13-inch (M4)",
+   "make": "Apple",
+   "year": 2026,
+   "lenses": [
+    {
+     "id": "wide",
+     "position": "back",
+     "kind": "wide",
+     "lensModel": "iPad Air 13-inch (M4) back camera 3mm f/1.8",
+     "focalLength": 3.0,
+     "fNumber": 1.8,
+     "focalLength35mm": 28,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024
+    },
+    {
+     "id": "front",
+     "position": "front",
+     "kind": "front",
+     "lensModel": "iPad Air 13-inch (M4) front camera 1.65mm f/2.4",
+     "focalLength": 1.65,
+     "fNumber": 2.4,
+     "focalLength35mm": 28,
+     "pixelWidth": 4032,
+     "pixelHeight": 3024,
+     "estimated": true
+    }
+   ],
+   "heif": true
+  }
+ ]
+}

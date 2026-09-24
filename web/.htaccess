@@ -1,0 +1,37 @@
+# Apache 配置。使用 Nginx 时见 docs/网站说明.md 中的等效配置。
+
+Options -Indexes
+DirectoryIndex index.php
+ErrorDocument 404 /404.php
+
+# 内部文件不对外开放
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteRule ^inc/ - [R=404,L]
+  RewriteRule (^|/)\.(?!well-known/) - [R=404,L]
+  RewriteRule \.(md|log|ini|sh)$ - [R=404,L]
+  RewriteRule ^robots\.txt$ robots.php [L]
+  RewriteRule ^sitemap\.xml$ sitemap.php [L]
+</IfModule>
+
+# 安全头
+<IfModule mod_headers.c>
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  Header always set X-Frame-Options "SAMEORIGIN"
+  Header always set Permissions-Policy "camera=(), microphone=(), geolocation=()"
+  Header always set Content-Security-Policy "default-src 'self'; img-src 'self' data:; style-src 'self'; script-src 'self'; base-uri 'self'; form-action 'self'; frame-ancestors 'self'"
+</IfModule>
+
+# 静态资源缓存（CSS 带 ?v= 版本号，改动后记得加一）
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType text/css "access plus 1 year"
+  ExpiresByType application/javascript "access plus 1 month"
+  ExpiresByType image/jpeg "access plus 1 month"
+  ExpiresByType image/png "access plus 1 month"
+</IfModule>
+
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css application/javascript application/json image/svg+xml
+</IfModule>

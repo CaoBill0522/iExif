@@ -1,0 +1,2227 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "": {
+      "shouldTranslate": false
+    },
+    "%lld Photos": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld 张照片"
+          }
+        }
+      }
+    },
+    "%lld items": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld 项"
+          }
+        }
+      }
+    },
+    "%lld items aren't supported images or couldn't be downloaded from iCloud.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "有 %lld 项不是支持的图片格式，或无法从 iCloud 下载。"
+          }
+        }
+      }
+    },
+    "%lld photos": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld 张照片"
+          }
+        }
+      }
+    },
+    "%lld photos were saved to your library.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已将 %lld 张照片保存到相册。"
+          }
+        }
+      }
+    },
+    "%lld photos were saved; %lld failed.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已保存 %lld 张照片，%lld 张失败。"
+          }
+        }
+      }
+    },
+    "1/120": {
+      "shouldTranslate": false
+    },
+    "35mm Equivalent": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "等效焦距"
+          }
+        }
+      }
+    },
+    "96 devices, from iPhone 4 to the latest models": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "96 款设备，从 iPhone 4 到最新机型"
+          }
+        }
+      }
+    },
+    "A little of the edges will be cropped to match the camera's aspect ratio.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "会从边缘裁掉少量画面，以符合相机的画面比例。"
+          }
+        }
+      }
+    },
+    "Add Date Taken": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "添加拍摄时间"
+          }
+        }
+      }
+    },
+    "Add Location": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "添加位置"
+          }
+        }
+      }
+    },
+    "Albums": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "相簿"
+          }
+        }
+      }
+    },
+    "All photos are processed on your device. Nothing is uploaded.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "所有照片都在本机处理，不会上传任何数据。"
+          }
+        }
+      }
+    },
+    "Allow access to your photo library in Settings to browse and edit your photos. You can still import from Files.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请在“设置”中允许访问相册，以浏览和编辑照片。你仍然可以从“文件”导入。"
+          }
+        }
+      }
+    },
+    "Allow location access in Settings to use your current location.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请在“设置”中允许访问位置，以使用当前位置。"
+          }
+        }
+      }
+    },
+    "Altitude": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "海拔"
+          }
+        }
+      }
+    },
+    "Aperture": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "光圈"
+          }
+        }
+      }
+    },
+    "Apply": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "应用"
+          }
+        }
+      }
+    },
+    "Apply Template": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "应用模板"
+          }
+        }
+      }
+    },
+    "Artist": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "作者"
+          }
+        }
+      }
+    },
+    "Author & Copyright": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "作者与版权"
+          }
+        }
+      }
+    },
+    "Auto": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "自动"
+          }
+        }
+      }
+    },
+    "Auto, Did Not Fire": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "自动，未闪光"
+          }
+        }
+      }
+    },
+    "Auto, Fired": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "自动，已闪光"
+          }
+        }
+      }
+    },
+    "Average": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "平均测光"
+          }
+        }
+      }
+    },
+    "Batch Edit": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "批量修改"
+          }
+        }
+      }
+    },
+    "Browse your whole library and albums": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "直接浏览整个图库和相簿"
+          }
+        }
+      }
+    },
+    "Cancel": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "取消"
+          }
+        }
+      }
+    },
+    "Center-weighted": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "中央重点测光"
+          }
+        }
+      }
+    },
+    "Changed fields: %lld": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已修改 %lld 项"
+          }
+        }
+      }
+    },
+    "Changes make, model and software only; lens fields stay the same.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "只修改品牌、型号和系统版本，镜头信息保持不变。"
+          }
+        }
+      }
+    },
+    "Changes only what the Photos app shows, without creating a new photo. The EXIF inside the file stays unchanged.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "只修改“照片”App 中显示的信息，不生成新照片，文件内的 EXIF 保持不变。"
+          }
+        }
+      }
+    },
+    "Choose from Presets": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "从预设选择"
+          }
+        }
+      }
+    },
+    "Choose from presets for every iPhone and iPad camera. Make, model, lens, aperture and focal length are filled in for you.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "从全部 iPhone 和 iPad 的镜头预设中选择，品牌、型号、镜头、光圈和焦距会自动填好。"
+          }
+        }
+      }
+    },
+    "Continue": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "继续"
+          }
+        }
+      }
+    },
+    "Converted to the device's format when needed": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "需要时自动转换为机型格式"
+          }
+        }
+      }
+    },
+    "Coordinates": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "输入坐标"
+          }
+        }
+      }
+    },
+    "Copyright": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "版权"
+          }
+        }
+      }
+    },
+    "Couldn't load the original image data.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无法读取原始图片数据。"
+          }
+        }
+      }
+    },
+    "Couldn't write the metadata.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "元数据写入失败。"
+          }
+        }
+      }
+    },
+    "Current Location": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "当前位置"
+          }
+        }
+      }
+    },
+    "Date": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "时间"
+          }
+        }
+      }
+    },
+    "Date Taken": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "拍摄时间"
+          }
+        }
+      }
+    },
+    "Days": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "天"
+          }
+        }
+      }
+    },
+    "Default Save Mode": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "默认保存方式"
+          }
+        }
+      }
+    },
+    "Description": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "图片描述"
+          }
+        }
+      }
+    },
+    "Device": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "设备"
+          }
+        }
+      }
+    },
+    "Device Presets": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "设备预设"
+          }
+        }
+      }
+    },
+    "Device Type": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "设备类型"
+          }
+        }
+      }
+    },
+    "Direction": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "拍摄朝向"
+          }
+        }
+      }
+    },
+    "Don't Change": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "不修改"
+          }
+        }
+      }
+    },
+    "Done": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "完成"
+          }
+        }
+      }
+    },
+    "Each photo is resized to the device's camera resolution and re-encoded; small photos may look blurry.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "每张照片都会调整为该机型相机的分辨率并重新编码，较小的照片放大后可能模糊。"
+          }
+        }
+      }
+    },
+    "Edit": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "编辑"
+          }
+        }
+      }
+    },
+    "Edit %lld Photos": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "编辑 %lld 张照片"
+          }
+        }
+      }
+    },
+    "Edit %lld Photos in Photos": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "修改 %lld 张照片的相册信息"
+          }
+        }
+      }
+    },
+    "Edit Date & Location in Photos Only": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "仅修改相册中的时间和位置"
+          }
+        }
+      }
+    },
+    "Edit Location": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "修改位置"
+          }
+        }
+      }
+    },
+    "Edit Photo": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "编辑照片"
+          }
+        }
+      }
+    },
+    "Edit Template": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "编辑模板"
+          }
+        }
+      }
+    },
+    "Edit in Photos": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "修改相册信息"
+          }
+        }
+      }
+    },
+    "Edit in Photos Only": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "仅修改相册信息"
+          }
+        }
+      }
+    },
+    "Edit up to 100 photos at once": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "一次最多编辑 100 张照片"
+          }
+        }
+      }
+    },
+    "Empty (clears the value)": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "空（将清除该值）"
+          }
+        }
+      }
+    },
+    "Enter Coordinates": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "输入坐标"
+          }
+        }
+      }
+    },
+    "Estimated": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "估算"
+          }
+        }
+      }
+    },
+    "Export to Files…": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "导出到“文件”…"
+          }
+        }
+      }
+    },
+    "Exposure": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "拍摄参数"
+          }
+        }
+      }
+    },
+    "Exposure Compensation": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "曝光补偿"
+          }
+        }
+      }
+    },
+    "Feature Tour": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "功能介绍"
+          }
+        }
+      }
+    },
+    "Fills in make, model, lens, aperture and focal length.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "自动填写品牌、型号、镜头、光圈和焦距。"
+          }
+        }
+      }
+    },
+    "Fills in make, model, lens, aperture and focal length. Estimated lenses are based on published specs because no original sample was available.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "自动填写品牌、型号、镜头、光圈和焦距。标为“估算”的镜头暂无真机样片，按官方规格推算。"
+          }
+        }
+      }
+    },
+    "Fired": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已闪光"
+          }
+        }
+      }
+    },
+    "Flash": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "闪光灯"
+          }
+        }
+      }
+    },
+    "Focal Length": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "焦距"
+          }
+        }
+      }
+    },
+    "Front": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "前置"
+          }
+        }
+      }
+    },
+    "Get Started": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "开始使用"
+          }
+        }
+      }
+    },
+    "Hours": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "小时"
+          }
+        }
+      }
+    },
+    "ISO": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ISO"
+          }
+        }
+      }
+    },
+    "ISO %lld": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ISO %lld"
+          }
+        }
+      }
+    },
+    "Import from Files": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "从“文件”导入"
+          }
+        }
+      }
+    },
+    "Included Fields": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "包含的字段"
+          }
+        }
+      }
+    },
+    "Keep Original Format": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "保持原格式"
+          }
+        }
+      }
+    },
+    "Language & Permissions": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "语言与权限"
+          }
+        }
+      }
+    },
+    "Latitude": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "纬度"
+          }
+        }
+      }
+    },
+    "Lens": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "镜头"
+          }
+        }
+      }
+    },
+    "Lens Make": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "镜头品牌"
+          }
+        }
+      }
+    },
+    "Lens Model": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "镜头型号"
+          }
+        }
+      }
+    },
+    "Library": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "图库"
+          }
+        }
+      }
+    },
+    "Live Photo": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "实况照片"
+          }
+        }
+      }
+    },
+    "Live Photo: the video is saved too, and its date, location and device are updated to match.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "实况照片：视频会一起保存，拍摄时间、地点和机型也会同步到视频。"
+          }
+        }
+      }
+    },
+    "Live Photos are marked in the grid": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "实况照片在网格中有标记"
+          }
+        }
+      }
+    },
+    "Live Photos keep their video": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "实况照片会保留视频"
+          }
+        }
+      }
+    },
+    "Live Photos keep their video, and its date, location and device are updated to match.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "实况照片会保留视频，并同步视频中的拍摄时间、地点和机型。"
+          }
+        }
+      }
+    },
+    "Live Photos need the pairing ID stored in MakerNote, so MakerNote is kept for this lossless save.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "实况照片的配对信息存在 MakerNote 中，无损保存时 MakerNote 会被保留。"
+          }
+        }
+      }
+    },
+    "Loading Photos…": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在载入照片…"
+          }
+        }
+      }
+    },
+    "Location": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "位置"
+          }
+        }
+      }
+    },
+    "Location Unavailable": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无法获取位置"
+          }
+        }
+      }
+    },
+    "Longitude": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "经度"
+          }
+        }
+      }
+    },
+    "Lossless: only the metadata is rewritten": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无损修改：只改写元数据"
+          }
+        }
+      }
+    },
+    "Main": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "主摄"
+          }
+        }
+      }
+    },
+    "Make": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "品牌"
+          }
+        }
+      }
+    },
+    "MakerNote is Apple's private camera data. Remove it if it could contradict the edited device info.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "MakerNote 是苹果私有的相机数据，如果它可能和修改后的设备信息矛盾，可以将其清除。"
+          }
+        }
+      }
+    },
+    "Manage": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "管理"
+          }
+        }
+      }
+    },
+    "Manual": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "手动"
+          }
+        }
+      }
+    },
+    "Match Device Default": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "跟随机型默认"
+          }
+        }
+      }
+    },
+    "Match Device Resolution": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "匹配机型分辨率"
+          }
+        }
+      }
+    },
+    "Match Device Resolution by Default": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "默认匹配机型分辨率"
+          }
+        }
+      }
+    },
+    "Media Types": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "媒体类型"
+          }
+        }
+      }
+    },
+    "Metering Mode": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "测光模式"
+          }
+        }
+      }
+    },
+    "Minutes": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "分钟"
+          }
+        }
+      }
+    },
+    "Mode": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "方式"
+          }
+        }
+      }
+    },
+    "Model": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "型号"
+          }
+        }
+      }
+    },
+    "More": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "更多"
+          }
+        }
+      }
+    },
+    "Multi-spot": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "多点测光"
+          }
+        }
+      }
+    },
+    "My Albums": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "我的相簿"
+          }
+        }
+      }
+    },
+    "New Template": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "新建模板"
+          }
+        }
+      }
+    },
+    "No Albums": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "没有相簿"
+          }
+        }
+      }
+    },
+    "No Flash": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无闪光灯"
+          }
+        }
+      }
+    },
+    "No Photos": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "没有照片"
+          }
+        }
+      }
+    },
+    "No Templates": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "暂无模板"
+          }
+        }
+      }
+    },
+    "No location set: the location will be removed from all photos.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未设置位置：将清除所有照片的位置信息。"
+          }
+        }
+      }
+    },
+    "No templates yet": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "暂无模板"
+          }
+        }
+      }
+    },
+    "None": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无"
+          }
+        }
+      }
+    },
+    "Not Set": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未设置"
+          }
+        }
+      }
+    },
+    "Nothing is uploaded": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "不会上传任何数据"
+          }
+        }
+      }
+    },
+    "OK": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "好"
+          }
+        }
+      }
+    },
+    "Off, Did Not Fire": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "关闭，未闪光"
+          }
+        }
+      }
+    },
+    "On, Fired": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "开启，已闪光"
+          }
+        }
+      }
+    },
+    "Only the date and location that Photos shows are changed. No new photos are created and the files' EXIF stays unchanged.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "只修改“照片”App 显示的时间和位置，不生成新照片，文件内的 EXIF 保持不变。"
+          }
+        }
+      }
+    },
+    "Only the included fields are changed when the template is applied.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "应用模板时只会修改包含的字段。"
+          }
+        }
+      }
+    },
+    "Only what the Photos app shows is changed, and no new photo is created. The EXIF inside the file stays the same, so exporting the original file shows the old values.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "只修改“照片”App 中显示的信息，不生成新照片。文件内的 EXIF 不变，导出原始文件时仍是旧值。"
+          }
+        }
+      }
+    },
+    "Open Settings": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "打开设置"
+          }
+        }
+      }
+    },
+    "Open it for editing right from the preview": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在预览中可直接进入编辑"
+          }
+        }
+      }
+    },
+    "Optional. Direction is the compass heading the camera faced, 0–359°.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "可选。拍摄朝向为镜头朝向的方位角，0–359°。"
+          }
+        }
+      }
+    },
+    "Other (%lld)": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "其他（%lld）"
+          }
+        }
+      }
+    },
+    "Output": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "输出"
+          }
+        }
+      }
+    },
+    "Output Format": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "输出格式"
+          }
+        }
+      }
+    },
+    "Partial": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "局部测光"
+          }
+        }
+      }
+    },
+    "Pattern (Matrix)": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "评价测光（矩阵）"
+          }
+        }
+      }
+    },
+    "Photo Library Access Needed": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "需要访问相册"
+          }
+        }
+      }
+    },
+    "Photo library access is off. Turn it on in Settings to save photos.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未开启照片访问权限。请在“设置”中开启后再保存。"
+          }
+        }
+      }
+    },
+    "Photos are converted to the device's default format when needed (see Settings).": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "需要时会转换为机型的默认格式（见“设置”）。"
+          }
+        }
+      }
+    },
+    "Photos are saved as HEIC for iPhone 7 and later, and as JPEG for older devices. Converting re-encodes the image.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iPhone 7 及以后的机型保存为 HEIC，更早的机型保存为 JPEG。转换格式会重新编码图像。"
+          }
+        }
+      }
+    },
+    "Pick a Device and Lens": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "选择机型和镜头"
+          }
+        }
+      }
+    },
+    "Press and hold any photo to see it larger. Live Photos play in the preview.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "长按任意照片即可放大预览，实况照片会自动播放。"
+          }
+        }
+      }
+    },
+    "Remove": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "清除"
+          }
+        }
+      }
+    },
+    "Remove Location": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "移除位置"
+          }
+        }
+      }
+    },
+    "Remove MakerNote": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "清除 MakerNote"
+          }
+        }
+      }
+    },
+    "Remove MakerNote by Default": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "默认清除 MakerNote"
+          }
+        }
+      }
+    },
+    "Revert Changes": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "还原修改"
+          }
+        }
+      }
+    },
+    "Save": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "保存"
+          }
+        }
+      }
+    },
+    "Save & Delete Original": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "另存并删除原图"
+          }
+        }
+      }
+    },
+    "Save Mode": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "保存方式"
+          }
+        }
+      }
+    },
+    "Save Options": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "保存选项"
+          }
+        }
+      }
+    },
+    "Save Your Way": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "按你的方式保存"
+          }
+        }
+      }
+    },
+    "Save as New Photo": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "另存为新照片"
+          }
+        }
+      }
+    },
+    "Save as Template…": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "存为模板…"
+          }
+        }
+      }
+    },
+    "Save as a new photo or replace the original. The date and location in Photos are updated too.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "另存为新照片或替换原图，“照片”App 中的时间和位置也会同步更新。"
+          }
+        }
+      }
+    },
+    "Save favorite settings as templates": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "常用参数可以存为模板"
+          }
+        }
+      }
+    },
+    "Saved": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已保存"
+          }
+        }
+      }
+    },
+    "Saving": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "保存"
+          }
+        }
+      }
+    },
+    "Saving %lld of %lld…": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在保存 %lld / %lld…"
+          }
+        }
+      }
+    },
+    "Search models": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "搜索机型"
+          }
+        }
+      }
+    },
+    "Search places": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "搜索地点"
+          }
+        }
+      }
+    },
+    "Seconds": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "秒"
+          }
+        }
+      }
+    },
+    "Select": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "选择"
+          }
+        }
+      }
+    },
+    "Set Same Time": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "统一时间"
+          }
+        }
+      }
+    },
+    "Set To": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "设为"
+          }
+        }
+      }
+    },
+    "Settings": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "设置"
+          }
+        }
+      }
+    },
+    "Share…": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "分享…"
+          }
+        }
+      }
+    },
+    "Shift All": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "整体平移"
+          }
+        }
+      }
+    },
+    "Shift By": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "平移"
+          }
+        }
+      }
+    },
+    "Shutter Speed": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "快门速度"
+          }
+        }
+      }
+    },
+    "Skip": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "跳过"
+          }
+        }
+      }
+    },
+    "Software": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "系统版本"
+          }
+        }
+      }
+    },
+    "Some Photos Couldn't Be Opened": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "部分照片无法打开"
+          }
+        }
+      }
+    },
+    "Something Went Wrong": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "出错了"
+          }
+        }
+      }
+    },
+    "Spot": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "点测光"
+          }
+        }
+      }
+    },
+    "Start on a selected photo to deselect instead": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "从已选中的照片开始滑动，则为取消选择"
+          }
+        }
+      }
+    },
+    "Swipe sideways across photos to select several at once.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "横向滑过照片可以一次选中多张。"
+          }
+        }
+      }
+    },
+    "Swipe to Select Many": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "滑动多选"
+          }
+        }
+      }
+    },
+    "Tap + to create a template, or choose More › Save as Template while editing a photo.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "轻点“+”新建模板，或在编辑照片时选择“更多 › 存为模板”。"
+          }
+        }
+      }
+    },
+    "Tap Select, then swipe sideways across photos to select them in one go. Keep dragging to the edge to scroll.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "轻点“选择”，然后横向滑过照片即可一次选中多张。拖到屏幕边缘会自动滚动。"
+          }
+        }
+      }
+    },
+    "Tap the map to drop a pin, or search for a place.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "轻点地图放置大头针，或搜索地点。"
+          }
+        }
+      }
+    },
+    "Telephoto": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "长焦"
+          }
+        }
+      }
+    },
+    "Template Name": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "模板名称"
+          }
+        }
+      }
+    },
+    "Templates": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "参数模板"
+          }
+        }
+      }
+    },
+    "The Photos app now shows the new date and location.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "“照片”App 中已显示新的时间和位置。"
+          }
+        }
+      }
+    },
+    "The edited photo was saved and the original was moved to Recently Deleted.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "修改后的照片已保存，原图已移到“最近删除”。"
+          }
+        }
+      }
+    },
+    "The edited photo was saved to your library.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "修改后的照片已保存到相册。"
+          }
+        }
+      }
+    },
+    "The edited photo was saved. The original was kept.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "修改后的照片已保存，原图已保留。"
+          }
+        }
+      }
+    },
+    "The image will be re-encoded at %lld%% quality to change its format or size.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "为转换格式或调整尺寸，图像将以 %lld%% 质量重新编码。"
+          }
+        }
+      }
+    },
+    "The original format is kept unless the chosen device couldn't have taken it, such as HEIC on an iPhone 6s or any PNG.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "保持原格式，除非所选机型不可能拍出这种格式，例如 iPhone 6s 的 HEIC 或任何 PNG。"
+          }
+        }
+      }
+    },
+    "The original photo can no longer be found in your library.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "相册中已找不到原照片。"
+          }
+        }
+      }
+    },
+    "The original photo is kept.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "原图将被保留。"
+          }
+        }
+      }
+    },
+    "The originals were kept.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "原图已保留。"
+          }
+        }
+      }
+    },
+    "The originals were moved to Recently Deleted.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "原图已移到“最近删除”。"
+          }
+        }
+      }
+    },
+    "The photo will be enlarged and may look blurry.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "照片会被放大，可能显得模糊。"
+          }
+        }
+      }
+    },
+    "This file isn't a supported image.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "此文件不是支持的图片格式。"
+          }
+        }
+      }
+    },
+    "This photo has no MakerNote.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "这张照片没有 MakerNote。"
+          }
+        }
+      }
+    },
+    "Time Zone": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "时区"
+          }
+        }
+      }
+    },
+    "Total Shift": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "总平移量"
+          }
+        }
+      }
+    },
+    "Touch and Hold to Preview": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "长按预览"
+          }
+        }
+      }
+    },
+    "Turn on the fields to change. Fields that are off keep each photo's own values. Initial values come from the first photo.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "打开需要修改的字段，未打开的字段保留每张照片原来的值。初始值取自第一张照片。"
+          }
+        }
+      }
+    },
+    "UTC%@": {
+      "shouldTranslate": false
+    },
+    "Ultra Wide": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "超广角"
+          }
+        }
+      }
+    },
+    "Ultra wide, main, telephoto and front cameras": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "超广角、主摄、长焦和前置镜头"
+          }
+        }
+      }
+    },
+    "Unknown": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未知"
+          }
+        }
+      }
+    },
+    "Up to 100 photos can be edited at once.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "一次最多编辑 100 张照片。"
+          }
+        }
+      }
+    },
+    "Updated": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已更新"
+          }
+        }
+      }
+    },
+    "Use Device Only": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "仅使用设备信息"
+          }
+        }
+      }
+    },
+    "Version": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "版本"
+          }
+        }
+      }
+    },
+    "View": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "查看"
+          }
+        }
+      }
+    },
+    "View and change the capture info stored in your photos, all on your device.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "查看并修改照片中保存的拍摄信息，全部在本机完成。"
+          }
+        }
+      }
+    },
+    "WGS-84 decimal degrees, as used by GPS and EXIF. South and west are negative.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WGS-84 十进制度数，即 GPS 与 EXIF 使用的坐标。南纬、西经为负数。"
+          }
+        }
+      }
+    },
+    "Welcome to iExif": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "欢迎使用 iExif"
+          }
+        }
+      }
+    },
+    "White Balance": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "白平衡"
+          }
+        }
+      }
+    },
+    "You can still change these each time you save.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "每次保存时仍可单独修改。"
+          }
+        }
+      }
+    },
+    "You've allowed access to some photos only.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "你只允许访问部分照片。"
+          }
+        }
+      }
+    },
+    "iOS asks you to confirm the deletion. Deleted photos stay in Recently Deleted for 30 days.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "系统会弹窗确认删除。删除的照片会在“最近删除”中保留 30 天。"
+          }
+        }
+      }
+    },
+    "iPad": {
+      "shouldTranslate": false
+    },
+    "iPhone": {
+      "shouldTranslate": false
+    },
+    "s": {
+      "shouldTranslate": false
+    },
+    "—": {
+      "shouldTranslate": false
+    }
+  },
+  "version": "1.0"
+}
